@@ -1,0 +1,1265 @@
+{
+	"songlist": [
+		{
+			"songID"	: 1,
+			"songName"	: "Ignition Starts",
+			"artist"	: "BanYa",
+			"bpm"		: 146,
+			"songType"	: "arcade",
+			"version"	: "1st",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 18,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 10,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 2,
+			"songName"	: "Hypnosis",
+			"artist"	: "BanYa",
+			"bpm"		: 180,
+			"songType"	: "arcade",
+			"version"	: "1st",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 18,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 18,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 3,
+			"songName"	: "Funky Tonight",
+			"artist"	: "CLON",
+			"bpm"		: 105,
+			"songType"	: "arcade",
+			"version"	: "1st",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 12,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 14,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 4,
+			"songName"	: "Another Truth",
+			"artist"	: "Novasonic",
+			"bpm"		: 136,
+			"songType"	: "arcade",
+			"version"	: "1st",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 22,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 5,
+			"songName"	: "Final Audition",
+			"artist"	: "BanYa",
+			"bpm"		: 130,
+			"songType"	: "arcade",
+			"version"	: "2nd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 3,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 6,
+			"songName"	: "Extravaganza",
+			"artist"	: "BanYa",
+			"bpm"		: 195,
+			"songType"	: "arcade",
+			"version"	: "2nd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 11,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 21,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 12,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 19,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 7,
+			"songName"	: "Com'Back",
+			"artist"	: "Sechs Kies",
+			"bpm"		: 158,
+			"songType"	: "arcade",
+			"version"	: "2nd",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 16,
+					"tags"		: []
+				}
+			]
+		},
+		{
+
+			"songID"	: 8,
+			"songName"	: "Mobius Strip",
+			"artist"	: "Sechs Kies",
+			"bpm"		: 106,
+			"songType"	: "arcade",
+			"version"	: "2nd",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 12,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 14,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 9,
+			"songName"	: "Repeatorment Remix",
+			"artist"	: "BanYa",
+			"bpm"		: 150,
+			"songType"	: "remix",
+			"version"	: "2nd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 19,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 8,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 10,
+			"songName"	: "Final Audition 2",
+			"artist"	: "BanYa",
+			"bpm"		: 130,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 10,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 19,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 3,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 11,
+			"songName"	: "Naissance",
+			"artist"	: "BanYa",
+			"bpm"		: 136,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 10,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 20,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 15,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 12,
+			"songName"	: "Turkey March",
+			"artist"	: "BanYa",
+			"bpm"		: 150,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 12,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 18,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 19,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "coop",
+					"players"	: 2,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 13,
+			"songName"	: "Nightmare",
+			"artist"	: "BanYa",
+			"bpm"		: 120,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 1,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 5,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 14,
+			"songName"	: "Close Your Eye",
+			"artist"	: "BanYa",
+			"bpm"		: 105,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 3,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 15,
+			"songName"	: "Free Style",
+			"artist"	: "BanYa",
+			"bpm"		: 99,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 15,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 1,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 3,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 16,
+			"songName"	: "Midnight Blue",
+			"artist"	: "BanYa",
+			"bpm"		: 80,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 12,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 5,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 17,
+			"songName"	: "She Likes Pizza",
+			"artist"	: "BanYa",
+			"bpm"		: 230,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 16,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 18,
+			"songName"	: "Pumping Up",
+			"artist"	: "BanYa",
+			"bpm"		: 135,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 12,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 19,
+			"songName"	: "Don't Bother Me",
+			"artist"	: "Tashannie",
+			"bpm"		: 110,
+			"songType"	: "arcade",
+			"version"	: "3rd",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 10,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 2,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 20,
+			"songName"	: "Oh! Rosa!",
+			"artist"	: "BanYa",
+			"bpm"		: 148,
+			"songType"	: "arcade",
+			"version"	: "3rdSE",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 21,
+			"songName"	: "First Love",
+			"artist"	: "BanYa",
+			"bpm"		: 103,
+			"songType"	: "arcade",
+			"version"	: "3rdSE",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 14,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 1,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 4,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 22,
+			"songName"	: "Betrayer",
+			"artist"	: "BanYa",
+			"bpm"		: 92,
+			"songType"	: "arcade",
+			"version"	: "3rdSE",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 1,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 27,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 2,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 23,
+			"songName"	: "Solitary",
+			"artist"	: "BanYa",
+			"bpm"		: 136,
+			"songType"	: "arcade",
+			"version"	: "3rdSE",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 5,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 24,
+			"songName"	: "Mr.Larpus",
+			"artist"	: "BanYa",
+			"bpm"		: 190,
+			"songType"	: "arcade",
+			"version"	: "3rdSE",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 11,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 14,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 20,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 22,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 14,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 23,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 25,
+			"songName"	: "Pump Jump",
+			"artist"	: "BanYa",
+			"bpm"		: 106,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 4,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 26,
+			"songName"	: "N",
+			"artist"	: "BanYa",
+			"bpm"		: 106,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "singlePerformance",
+					"level"		: 2,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 5,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 27,
+			"songName"	: "Rolling Christmas",
+			"artist"	: "BanYa",
+			"bpm"		: 142,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 5,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "coop",
+					"players"	: 2,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 28,
+			"songName"	: "All I Want For X-max",
+			"artist"	: "BanYa",
+			"bpm"		: 130,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 11,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 7,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 29,
+			"songName"	: "Beethohven Virus",
+			"artist"	: "BanYa",
+			"bpm"		: 162,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: [],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 4,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 7,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 13,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 16,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 8,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 18,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 20,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "doublePerformance",
+					"level"		: 3,
+					"tags"		: []
+				}
+			]
+		},
+		{
+			"songID"	: 30,
+			"songName"	: "Slam",
+			"artist"	: "Novasonic",
+			"bpm"		: 131,
+			"songType"	: "arcade",
+			"version"	: "PerfectCollection",
+			"tags"		: ["kpop"],
+			"chartList"	: [
+				{
+					"chartType"	: "single",
+					"level"		: 3,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 9,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 17,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "single",
+					"level"		: 18,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 6,
+					"tags"		: []
+				},
+				{
+					"chartType"	: "double",
+					"level"		: 20,
+					"tags"		: []
+				}
+			]
+		}
+	]
+}
