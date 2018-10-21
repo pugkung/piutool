@@ -1260,6 +1260,1279 @@
                     "tags"      : []
                 }
             ]
+        },
+        {
+            "songID"    : 31,
+            "songName"  : "Chicken Wing",
+            "artist"    : "BanYa",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "Extra",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 32,
+            "songName"  : "Final Audition Ep.1",
+            "artist"    : "BanYa",
+            "bpm"       : 189,
+            "songType"  : "arcade",
+            "version"   : "Extra",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 33,
+            "songName"  : "EXTRA BanYa Remix",
+            "artist"    : "BanYa",
+            "bpm"       : 200,
+            "songType"  : "remix",
+            "version"   : "Extra",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 34,
+            "songName"  : "Dr. M",
+            "artist"    : "BanYa",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 35,
+            "songName"  : "Emperor",
+            "artist"    : "BanYa",
+            "bpm"       : 150,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 36,
+            "songName"  : "Get Your Groove On",
+            "artist"    : "BanYa",
+            "bpm"       : 96,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 37,
+            "songName"  : "Love is a Danger Zone",
+            "artist"    : "BanYa",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 38,
+            "songName"  : "Maria",
+            "artist"    : "BanYa",
+            "bpm"       : 136,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 39,
+            "songName"  : "Mission Possible",
+            "artist"    : "BanYa",
+            "bpm"       : 124,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 40,
+            "songName"  : "My Way",
+            "artist"    : "BanYa",
+            "bpm"       : 118,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 41,
+            "songName"  : "Point Break",
+            "artist"    : "BanYa",
+            "bpm"       : 92,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 42,
+            "songName"  : "Street Show Down",
+            "artist"    : "BanYa",
+            "bpm"       : 124,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 43,
+            "songName"  : "Top City",
+            "artist"    : "BanYa",
+            "bpm"       : 110,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 44,
+            "songName"  : "Winter",
+            "artist"    : "BanYa",
+            "bpm"       : 168,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 45,
+            "songName"  : "Will-O-The-Wisp",
+            "artist"    : "BanYa",
+            "bpm"       : 210,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 46,
+            "songName"  : "Till the end of time",
+            "artist"    : "BanYa",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 47,
+            "songName"  : "Oy Oy Oy",
+            "artist"    : "BanYa",
+            "bpm"       : 148,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 48,
+            "songName"  : "We will meet again",
+            "artist"    : "BanYa",
+            "bpm"       : 118,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 49,
+            "songName"  : "Miss S'Story",
+            "artist"    : "BanYa",
+            "bpm"       : 111,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 50,
+            "songName"  : "Set me up",
+            "artist"    : "BanYa",
+            "bpm"       : 120,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 7,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 51,
+            "songName"  : "Dance wth me",
+            "artist"    : "BanYa",
+            "bpm"       : 122,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 52,
+            "songName"  : "Vook",
+            "artist"    : "BanYa",
+            "bpm"       : 184,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 53,
+            "songName"  : "Csikos Post",
+            "artist"    : "BanYa",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "Rebirth",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 54,
+            "songName"  : "Bee",
+            "artist"    : "BanYa",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Premiere3",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 55,
+            "songName"  : "D Gang",
+            "artist"    : "BanYa",
+            "bpm"       : 150,
+            "songType"  : "arcade",
+            "version"   : "Premiere3",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 56,
+            "songName"  : "Hello",
+            "artist"    : "BanYa",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "Premiere3",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 57,
+            "songName"  : "Beat of The War",
+            "artist"    : "BanYa",
+            "bpm"       : [140,202],
+            "songType"  : "arcade",
+            "version"   : "Premiere3",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 58,
+            "songName"  : "Come to Me",
+            "artist"    : "BanYa",
+            "bpm"       : [100,107],
+            "songType"  : "arcade",
+            "version"   : "Prex3",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
         }
     ]
 }
