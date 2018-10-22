@@ -8,15 +8,16 @@
         var jsonFile = $.getJSON( "data/songlist.json", function() {
             songList = jsonFile.responseJSON.songlist;
         });
+        var placeholder;
 
         function runQuery(){
             var strSelect = document.getElementById("selectClause").value;
             var strWhere = document.getElementById("whereClause").value;
-            console.log(strSelect);
             var res = alasql('SELECT ' + strSelect + ' FROM ? songList WHERE ' + strWhere,[songList]);
             console.log(res);
 
             document.getElementById("outputArea").innerHTML = JSON.stringify(res);
+            placeholder = res;
         }
     </script>
 </head>
