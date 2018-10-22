@@ -2533,6 +2533,1122 @@
                     "tags"      : []
                 }
             ]
+        },
+        {
+            "songID"    : 59,
+            "songName"  : "Final Audition 3",
+            "artist"    : "BanYa",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 60,
+            "songName"  : "Naissance 2",
+            "artist"    : "BanYa",
+            "bpm"       : 129,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 61,
+            "songName"  : "Monkey Finger",
+            "artist"    : "BanYa",
+            "bpm"       : 186,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 62,
+            "songName"  : "Blazing",
+            "artist"    : "BanYa",
+            "bpm"       : 158,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 63,
+            "songName"  : "Pump Me Amadeus",
+            "artist"    : "BanYa",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 64,
+            "songName"  : "X Treme",
+            "artist"    : "BanYa",
+            "bpm"       : 162,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 65,
+            "songName"  : "Get Up!",
+            "artist"    : "BanYa",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 66,
+            "songName"  : "Deja Vu",
+            "artist"    : "SOM2",
+            "bpm"       : 115,
+            "songType"  : "arcade",
+            "version"   : "Exceed",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 67,
+            "songName"  : "I'll Give You All My Love",
+            "artist"    : "Wax",
+            "bpm"       : 164,
+            "songType"  : "arcade",
+            "version"   : "Exceed2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 68,
+            "songName"  : "J Bong",
+            "artist"    : "BanYa",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 69,
+            "songName"  : "Hi Bi",
+            "artist"    : "BanYa",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 70,
+            "songName"  : "Solitary 2",
+            "artist"    : "BanYa",
+            "bpm"       : 136,
+            "songType"  : "arcade",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 71,
+            "songName"  : "Canon D",
+            "artist"    : "BanYa",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 72,
+            "songName"  : "Tream Vook of the war REMIX",
+            "artist"    : "BanYa",
+            "bpm"       : [184,202],
+            "songType"  : "remix",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 73,
+            "songName"  : "Banya Classic Remix",
+            "artist"    : "BanYa",
+            "bpm"       : [162,170],
+            "songType"  : "remix",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 74,
+            "songName"  : "Banya Hiphop Remix",
+            "artist"    : "BanYa",
+            "bpm"       : 99,
+            "songType"  : "remix",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 75,
+            "songName"  : "Canon D FULL Song MIX",
+            "artist"    : "BanYa",
+            "bpm"       : 160,
+            "songType"  : "fullsong",
+            "version"   : "Exceed2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 76,
+            "songName"  : "Beat of The War 2",
+            "artist"    : "BanYa",
+            "bpm"       : [120,190],
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 77,
+            "songName"  : "Moonlight",
+            "artist"    : "BanYa",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 78,
+            "songName"  : "Witch Doctor",
+            "artist"    : "BanYa",
+            "bpm"       : 195,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 79,
+            "songName"  : "Love is a Danger Zone pt.2",
+            "artist"    : "BanYa",
+            "bpm"       : 162,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 80,
+            "songName"  : "Phantom",
+            "artist"    : "BanYa",
+            "bpm"       : 136,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 7,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 81,
+            "songName"  : "Papa Gonzales",
+            "artist"    : "BanYa",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 82,
+            "songName"  : "Chung Hwa Ban Jeom",
+            "artist"    : "Louis",
+            "bpm"       : 149,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 83,
+            "songName"  : "Love is a danger zone (try to B.P.M)",
+            "artist"    : "BanYa",
+            "bpm"       : [140,169],
+            "songType"  : "remix",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 84,
+            "songName"  : "Love is a Danger Zone pt.2 another",
+            "artist"    : "BanYa",
+            "bpm"       : 162,
+            "songType"  : "arcade",
+            "version"   : "Zero",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
         }
     ]
 }
