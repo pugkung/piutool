@@ -1,0 +1,35 @@
+<html>
+<head>
+    <!-- Tool for testing (static) data structure-->
+    <script src="https://cdn.jsdelivr.net/npm/alasql@0.4"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        var songList;
+        var jsonFile = $.getJSON( "data/songlist.json", function() {
+            songList = jsonFile.responseJSON.songlist;
+        });
+
+        function runQuery(){
+            var strSelect = document.getElementById("selectClause").value;
+            var strWhere = document.getElementById("whereClause").value;
+            console.log(strSelect);
+            var res = alasql('SELECT ' + strSelect + ' FROM ? songList WHERE ' + strWhere,[songList]);
+            console.log(res);
+
+            document.getElementById("outputArea").innerHTML = JSON.stringify(res);
+        }
+    </script>
+</head>
+<h3>Test query from JSON</h3>
+<p><i>please review existing data structure before spamming queries...</i></p>
+<div id="dataFields">
+    SELECT</br>
+    <textarea id="selectClause" rols="4" cols="60" placeholder="Enter Query Here..."></textarea></br>
+    FROM JSON(data/songlist.json)</br>
+    WHERE</br>
+    <textarea id="whereClause" rols="4" cols="60" placeholder="Enter Query Here..."></textarea>
+    </br><button onclick="runQuery()">Run Query</button>
+</div>
+<h3>Result</h3>
+<div id="outputArea">No output yet</div>
+</html>
