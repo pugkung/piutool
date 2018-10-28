@@ -18332,7 +18332,7 @@
             "bpm"       : 82,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : ["world", "pinoy_exclusive"],
+            "tags"      : ["world", "ph_exclusive"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -18373,7 +18373,7 @@
             "bpm"       : 82,
             "songType"  : "fullsong",
             "version"   : "Prime2",
-            "tags"      : ["world", "pinoy_exclusive"],
+            "tags"      : ["world", "ph_exclusive"],
             "chartList" : [
                 {
                     "chartType" : "single",
