@@ -477,6 +477,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 20,
                     "tags"      : []
                 },
@@ -687,6 +692,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 9,
                     "tags"      : []
@@ -695,6 +705,11 @@
                     "chartType" : "double",
                     "level"     : 16,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -716,6 +731,11 @@
                     "chartType" : "single",
                     "level"     : 12,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -782,6 +802,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -1258,6 +1283,11 @@
                     "chartType" : "double",
                     "level"     : 20,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -1529,6 +1559,11 @@
                     "chartType" : "double",
                     "level"     : 9,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -1621,6 +1656,11 @@
                     "chartType" : "double",
                     "level"     : 15,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -1693,6 +1733,11 @@
                     "chartType" : "double",
                     "level"     : 15,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -1837,6 +1882,11 @@
                     "chartType" : "single",
                     "level"     : 15,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "double",
@@ -4349,6 +4399,11 @@
                     "chartType" : "single",
                     "level"     : 17,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "double",
@@ -8869,6 +8924,11 @@
                     "chartType" : "double",
                     "level"     : 18,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
                 }
             ]
         },
@@ -10981,6 +11041,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -11091,6 +11156,11 @@
                 {
                     "chartType" : "single",
                     "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -11263,6 +11333,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 18,
                     "tags"      : []
                 },
@@ -11274,6 +11349,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -11330,6 +11410,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 }
             ]
@@ -11581,6 +11666,11 @@
                     "chartType" : "double",
                     "level"     : 16,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
                 }
             ]
         },
@@ -11622,6 +11712,11 @@
                     "chartType" : "double",
                     "level"     : 20,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
                 }
             ]
         },
@@ -11657,6 +11752,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
                     "tags"      : []
                 }
             ]
@@ -11704,6 +11804,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
                 }
             ]
         },
@@ -11739,6 +11844,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 }
             ]
@@ -11969,6 +12079,11 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -12004,6 +12119,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 }
             ]
@@ -12209,6 +12329,11 @@
                     "chartType" : "single",
                     "level"     : 19,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "double",
@@ -12477,7 +12602,22 @@
                 },
                 {
                     "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -12514,6 +12654,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
                     "tags"      : []
                 }
             ]
@@ -12555,6 +12700,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
                     "tags"      : []
                 }
             ]
@@ -12652,6 +12802,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 },
                 {
@@ -13079,6 +13234,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
@@ -13245,6 +13405,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doubleP'",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -13285,6 +13450,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
                     "tags"      : []
                 }
             ]
@@ -13475,6 +13645,11 @@
                     "chartType" : "double",
                     "level"     : 18,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -13714,6 +13889,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
                     "tags"      : []
                 }
             ]
@@ -14098,6 +14278,11 @@
                     "chartType" : "double",
                     "level"     : 16,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -14122,6 +14307,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 19,
                     "tags"      : []
                 },
@@ -14132,7 +14322,17 @@
                 },
                 {
                     "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
                     "tags"      : []
                 }
             ]
@@ -14224,6 +14424,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 17,
                     "tags"      : []
                 },
@@ -14231,6 +14436,11 @@
                     "chartType" : "double",
                     "level"     : 10,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "double",
@@ -14301,6 +14511,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
                     "tags"      : []
                 },
                 {
@@ -14521,6 +14736,11 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -14572,6 +14792,11 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -14622,6 +14847,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
                     "tags"      : []
                 }
             ]
@@ -14803,6 +15033,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -14937,6 +15172,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
                     "tags"      : []
                 }
             ]
@@ -15133,6 +15373,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 3,
                     "tags"      : []
@@ -15186,6 +15431,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
                     "tags"      : []
                 }
             ]
@@ -15247,6 +15497,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 }
             ]
@@ -15736,6 +15991,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
                     "tags"      : []
                 },
                 {
@@ -16282,6 +16542,3010 @@
                     "chartType" : "double",
                     "level"     : 20,
                     "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 385,
+            "songName"  : "Last Rebirth",
+            "artist"    : "SHK",
+            "bpm"       : 120,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 386,
+            "songName"  : "Hellfire",
+            "artist"    : "Memme",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 387,
+            "songName"  : "God Mode feat. skizzo",
+            "artist"    : "Nato",
+            "bpm"       : 152,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 388,
+            "songName"  : "Further",
+            "artist"    : "Doin",
+            "bpm"       : 194,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 389,
+            "songName"  : "Bring Back The Beat",
+            "artist"    : "Lunatic Sounds",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 390,
+            "songName"  : "Sarabande",
+            "artist"    : "MAX",
+            "bpm"       : 157,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 391,
+            "songName"  : "Arcane Force",
+            "artist"    : "mzet:-P",
+            "bpm"       : 175,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 392,
+            "songName"  : "BANG BANG BANG",
+            "artist"    : "BIGBANG",
+            "bpm"       : 135,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 393,
+            "songName"  : "Me Gustas Tu",
+            "artist"    : "GFriend",
+            "bpm"       : 106,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 394,
+            "songName"  : "RHYTHM TA",
+            "artist"    : "iKON",
+            "bpm"       : 82,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 395,
+            "songName"  : "PICK ME",
+            "artist"    : "PRODUCE 101",
+            "bpm"       : 128,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 396,
+            "songName"  : "Jackpot",
+            "artist"    : "Block B",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 397,
+            "songName"  : "BOOMBAYAH",
+            "artist"    : "BLACKPINK",
+            "bpm"       : 125,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 398,
+            "songName"  : "Up&Down",
+            "artist"    : "EXID",
+            "bpm"       : 112,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 399,
+            "songName"  : "You're the best",
+            "artist"    : "MAMMAMOO",
+            "bpm"       : 122,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 400,
+            "songName"  : "NUMBER NINE",
+            "artist"    : "T-ARA",
+            "bpm"       : 128,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 401,
+            "songName"  : "Acquaintance",
+            "artist"    : "Outsider",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 402,
+            "songName"  : "Moonlight Dance",
+            "artist"    : "TatshMusicCircle",
+            "bpm"       : 182,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["jmusic"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 403,
+            "songName"  : "Death Moon",
+            "artist"    : "SHK",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 404,
+            "songName"  : "Christmas Memories",
+            "artist"    : "Warak",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 405,
+            "songName"  : "Asterious -ReEntry-",
+            "artist"    : "ATAS",
+            "bpm"       : 148,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 406,
+            "songName"  : "Le Grand Bleu",
+            "artist"    : "KIEN",
+            "bpm"       : 165,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 6,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 407,
+            "songName"  : "Vulcan",
+            "artist"    : "Memme",
+            "bpm"       : 175,
+            "songType"  : "remix",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 408,
+            "songName"  : "BANG BANG BANG",
+            "artist"    : "BIGBANG",
+            "bpm"       : 175,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 409,
+            "songName"  : "Sarabande",
+            "artist"    : "MAX",
+            "bpm"       : 157,
+            "songType"  : "shortcut",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 410,
+            "songName"  : "Death Moon",
+            "artist"    : "SHK",
+            "bpm"       : 160,
+            "songType"  : "shortcut",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 466,
+            "songName"  : "Clue",
+            "artist"    : "Transin",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 467,
+            "songName"  : "Just Kiddin",
+            "artist"    : "Vospi",
+            "bpm"       : 125,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 468,
+            "songName"  : "Me Gustas Tu",
+            "artist"    : "GFriend",
+            "bpm"       : 106,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 469,
+            "songName"  : "Kasou Shinja",
+            "artist"    : "MAX",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 470,
+            "songName"  : "Chase Me",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 471,
+            "songName"  : "BOOMBAYAH",
+            "artist"    : "BLACKPINK",
+            "bpm"       : 125,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 472,
+            "songName"  : "STEP",
+            "artist"    : "SID-SOUND",
+            "bpm"       : 156,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 474,
+            "songName"  : "HELIX",
+            "artist"    : "ESTi",
+            "bpm"       : 175,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 475,
+            "songName"  : "Hyperion",
+            "artist"    : "M2U",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 476,
+            "songName"  : "HUSH",
+            "artist"    : "Yassi Pressman & Nadine Lustre",
+            "bpm"       : 82,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world", "pinoy_exclusive"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 477,
+            "songName"  : "HUSH",
+            "artist"    : "Yassi Pressman & Nadine Lustre",
+            "bpm"       : 82,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["world", "pinoy_exclusive"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 479,
+            "songName"  : "Utsushiyo No Kaze feat. Kana",
+            "artist"    : "void",
+            "bpm"       : 152,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 480,
+            "songName"  : "Allegro Furioso",
+            "artist"    : "DM Ashura",
+            "bpm"       : 176,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 481,
+            "songName"  : "Super Stylin'",
+            "artist"    : "Warak",
+            "bpm"       : 146,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 482,
+            "songName"  : "Start On Red",
+            "artist"    : "Nato",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 483,
+            "songName"  : "Good Night",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 196,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 484,
+            "songName"  : "Redline",
+            "artist"    : "Archefluxx",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "neonfm"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 485,
+            "songName"  : "Seize My Day",
+            "artist"    : "Rainbowdragoneyes",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 486,
+            "songName"  : "Up&Down",
+            "artist"    : "EXID",
+            "bpm"       : 112,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 487,
+            "songName"  : "PRIME2 Opening",
+            "artist"    : "MAX",
+            "bpm"       : 145,
+            "songType"  : "shortcut",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 489,
+            "songName"  : "Shub Niggurath",
+            "artist"    : "Nato",
+            "bpm"       : 220,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 490,
+            "songName"  : "SOBER",
+            "artist"    : "BIG BANG",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 491,
+            "songName"  : "Magical Vacation",
+            "artist"    : "SID-SOUND",
+            "bpm"       : 154,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 492,
+            "songName"  : "Acquaintance",
+            "artist"    : "Outsider",
+            "bpm"       : 130,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 493,
+            "songName"  : "Overblow2",
+            "artist"    : "MAX",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                }
+            ]
+        },
+        {
+            "songID"    : 494,
+            "songName"  : "Hey U",
+            "artist"    : "MAZO",
+            "bpm"       : 162,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 495,
+            "songName"  : "BEDLAM",
+            "artist"    : "SANY-ON",
+            "bpm"       : 183,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 496,
+            "songName"  : "Leather",
+            "artist"    : "Doin",
+            "bpm"       : 200,
+            "songType"  : "remix",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 498,
+            "songName"  : "Gotta Be You",
+            "artist"    : "2NE1",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 500,
+            "songName"  : "Fallen Angel",
+            "artist"    : "DM Ashura",
+            "bpm"       : 157,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 501,
+            "songName"  : "Shub Niggurath",
+            "artist"    : "Nato",
+            "bpm"       : 220,
+            "songType"  : "shortcut",
+            "version"   : "Prime2",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 502,
+            "songName"  : "Time Attack <Blue>",
+            "artist"    : "r300k",
+            "bpm"       : 119,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 503,
+            "songName"  : "Kill Them!",
+            "artist"    : "Archefluxx",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "neonfm"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 504,
+            "songName"  : "Chase Me",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 200,
+            "songType"  : "fullsong",
+            "version"   : "Prime2",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 505,
+            "songName"  : "Keep On!",
+            "artist"    : "AmamoriP",
+            "bpm"       : 185,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags6"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 506,
+            "songName"  : "Nakakapagpabagabag",
+            "artist"    : "Dasu feat. Kagamine Len",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 507,
+            "songName"  : "Heart Attack",
+            "artist"    : "DJ Counterforce",
+            "bpm"       : 148,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["shop_unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["shop_unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 509,
+            "songName"  : "Cross Time",
+            "artist"    : "Brandy",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "Prime2",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["am_exclusive"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["am_exclusive"]
                 }
             ]
         }
