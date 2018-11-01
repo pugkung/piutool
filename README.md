@@ -19,6 +19,7 @@ I plan to maintain the songlist after the release of new 2019 vesion, but will n
 * (crude) songIDs : http://www.piugame.com/piu.prime2/mydata/userFav/customFAV.php
 * List of Shop unlock charts : http://www.piugame.com/piu.prime2/itemshop/stepShop.php
 * List of AM Pass exclusive charts : http://www.piugame.com/piu.prime2/mydata/userMt/customMT.php
+* PRIME2 Banners from Stepmania PIU Indonesia group : https://www.facebook.com/Stepmania-Pump-It-Up-Indonesia-210885099120068/
 
 ## Contact
 For reporting any issue/incorrect data, please use GitHub's Issue tracker below:
