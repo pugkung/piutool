@@ -17863,12 +17863,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "TODO",
+                    "level"     : 14,
                     "tags"      : ["unlock"]
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "TODO",
+                    "level"     : 22,
                     "tags"      : ["unlock"]
                 },
                 {
@@ -18429,7 +18429,7 @@
                 },
                 {
                     "chartType" : "coop",
-                    "players"   : "TODO",
+                    "players"   : 2,
                     "tags"      : ["unlock"]
                 }
             ]
@@ -18979,6 +18979,11 @@
             "version"   : "XX",
             "tags"      : ["xross", "ez2ac"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : "TODO",
+                    "tags"      : ["unlock"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : "TODO",
