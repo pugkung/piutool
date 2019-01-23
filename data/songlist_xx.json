@@ -18719,7 +18719,7 @@
                 },
                 {
                     "chartType" : "coop",
-                    "players"   : "TODO",
+                    "players"   : 2,
                     "tags"      : ["unlock"]
                 }
             ]
@@ -18981,17 +18981,17 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : "TODO",
+                    "level"     : 20,
                     "tags"      : ["unlock"]
                 },
                 {
                     "chartType" : "single",
-                    "level"     : "TODO",
+                    "level"     : 22,
                     "tags"      : ["unlock"]
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "TODO",
+                    "level"     : 23,
                     "tags"      : ["unlock"]
                 }
             ]
@@ -19033,7 +19033,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "TODO",
+                    "level"     : 24,
                     "tags"      : ["unlock"]
                 }
             ]
