@@ -145,7 +145,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
@@ -160,12 +160,12 @@
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 }
             ]
         },
@@ -201,7 +201,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "single",
@@ -257,7 +257,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
@@ -488,7 +488,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
@@ -1272,12 +1272,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
@@ -1287,12 +1287,12 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["shop_unlock"]
+                    "tags"      : ["shop_unlock", "special"]
                 }
             ]
         },
@@ -2121,7 +2121,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -2442,7 +2442,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -2457,7 +2457,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 }
             ]
         },
@@ -2529,12 +2529,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -2549,7 +2549,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 }
             ]
         },
@@ -2585,7 +2585,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -2697,7 +2697,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["soft_landing"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -3101,7 +3101,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 }
             ]
         },
@@ -3470,7 +3470,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["spin"]
                 },
                 {
                     "chartType" : "single",
@@ -3777,12 +3777,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -3792,12 +3792,12 @@
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -3843,12 +3843,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["jumps"]
                 },
                 {
                     "chartType" : "double",
@@ -3991,7 +3991,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -4027,7 +4027,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
@@ -4042,7 +4042,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 }
             ]
         },
@@ -4119,12 +4119,12 @@
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 }
             ]
         },
@@ -4412,7 +4412,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 }
             ]
         },
@@ -4627,7 +4627,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "single",
@@ -4652,7 +4652,7 @@
                 {
                     "chartType" : "singlePerformance",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["spin"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -4852,7 +4852,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 },
                 {
                     "chartType" : "double",
@@ -4862,7 +4862,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -7632,7 +7632,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["overrated"]
                 },
                 {
                     "chartType" : "single",
@@ -7647,7 +7647,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["overrated"]
                 },
                 {
                     "chartType" : "double",
@@ -8095,17 +8095,17 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["bracket", "footswitch"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 }
             ]
         },
@@ -8411,7 +8411,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
@@ -8595,7 +8595,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -9285,7 +9285,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 4,
-                    "tags"      : []
+                    "tags"      : ["rally"]
                 }
             ]
         },
@@ -9700,12 +9700,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
@@ -9715,7 +9715,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 }
             ]
         },
@@ -9833,12 +9833,12 @@
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -9848,7 +9848,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -10311,8 +10311,8 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 29,
-                    "tags"      : []
+                    "level"     : 19,
+                    "tags"      : ["jumps"]
                 }
             ]
         },
@@ -10629,7 +10629,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["jackhammer"]
                 },
                 {
                     "chartType" : "double",
@@ -10726,7 +10726,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["jumps"]
                 },
                 {
                     "chartType" : "double",
@@ -10736,7 +10736,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["jumps"]
                 }
             ]
         },
@@ -10772,7 +10772,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -12469,7 +12469,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["footswitch"]
                 },
                 {
                     "chartType" : "double",
@@ -12530,7 +12530,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["special"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -13413,7 +13413,7 @@
                 {
                     "chartType" : "singlePerformance",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -13775,7 +13775,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -13821,7 +13821,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["spin"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -13969,7 +13969,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -14393,7 +14393,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
@@ -14402,13 +14402,13 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 18,
                     "tags"      : ["shop_unlock"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -14978,7 +14978,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
@@ -16366,7 +16366,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 4,
-                    "tags"      : []
+                    "tags"      : ["rally"]
                 }
             ]
         },
@@ -16517,7 +16517,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -18569,7 +18569,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["am_exclusive"]
+                    "tags"      : ["am_exclusive", "bracket"]
                 },
                 {
                     "chartType" : "double",
@@ -19688,7 +19688,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -19698,7 +19698,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : ["am_exclusive"]
+                    "tags"      : ["am_exclusive", "gimmick"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -19708,7 +19708,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["gimmick"]
                 }
             ]
         },
@@ -20050,7 +20050,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : ["shop_unlock"]
+                    "tags"      : ["shop_unlock", "gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -20065,7 +20065,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["shop_unlock"]
+                    "tags"      : ["shop_unlock", "gimmick"]
                 }
             ]
         },
@@ -20469,7 +20469,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["am_exclusive"]
+                    "tags"      : ["am_exclusive", "gimmick"]
                 },
                 {
                     "chartType" : "double",
@@ -20949,7 +20949,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["shop_unlock"]
+                    "tags"      : ["shop_unlock", "bracket"]
                 },
                 {
                     "chartType" : "double",
@@ -20964,7 +20964,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["shop_unlock"]
+                    "tags"      : ["shop_unlock", "bracket"]
                 },
                 {
                     "chartType" : "coop",
