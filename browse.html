@@ -26,19 +26,49 @@
             });
 
             $("#submit").click(function() {
-                var $checked = $("[name='chartType']").filter(":checked");
+                performSearch();
+            });
+
+            document.onkeypress = function (e) {
+                if (e.keyCode == 13) {
+                    performSearch();
+                }
+            }
+
+            $("input[name='chartType']").click(function() {
+                if (this.value == "coop") {
+                    $("#levelSelectorArea").hide();
+                }
+                else {
+                    $("#levelSelectorArea").show();
+                }
+            });
+         });
+
+         function performSearch() {
+            var $checked = $("[name='chartType']").filter(":checked");
                 var selectedChartTypes = $checked.map(function() {
                     return this.value;
                 }).get();
 
-                var result = "Searching with<br/>" +
-                "songName = " + $("#songName").val() + 
-                "<br/>chartType = " +  selectedChartTypes + 
-                "<br/>level = " + $("#levelText").text(); 
+                console.log("Searching with" +
+                    "\nsongName = " + $("#songName").val() + 
+                    "\nchartType = " +  selectedChartTypes + 
+                    "\nlevel = " + $("#levelText").text());
+
+                var result = searchSongName(songList, $("#songName").val());
                 
-                $("#result").html(result);
-            });
-         });
+                $("#result").html(JSON.stringify(result));
+         }
+
+         function searchSongName(arr, part) {
+            if(part.trim() == "") {
+                return [];
+            }
+
+            part = part.toLowerCase();
+            return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
+        }
     </script>
 </head>
 <body>
@@ -94,13 +124,14 @@
             <input type="checkbox" name="version" value="Prime2" checked disabled>Prime2
         </span>
     </p>
-    <p>
+    <p id="levelSelectorArea">
         <span class="label">Level</span>
         <span class="inputField" id="levelText">1 - 28</span>
     <br/>
         <span class="label"></span>
         <span class="inputField" id="level"></span>
-    <br/>
+    </p>
+    <p>
         <span class="label"></span>
         <span class="inputField">
             <input type="button" id="submit" value="Go!">
