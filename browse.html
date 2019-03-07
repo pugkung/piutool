@@ -13,6 +13,7 @@
         var jsonFile = $.getJSON( "data/songlist_prime2.json", function() {
             songList = jsonFile.responseJSON.songlist;
         });
+        var levelRange = [1,28];
 
         $(function() {
             $("#level").slider({
@@ -21,6 +22,7 @@
                 max: 28,
                 values: [1, 28],
                 slide: function(event, ui) {
+                    levelRange = ui.values;
                     $("#levelText").text(ui.values[0] + " - " + ui.values[1]);
                 }
             });
@@ -37,15 +39,17 @@
 
             $("input[name='chartType']").click(function() {
                 if (this.value == "coop") {
+                    $('input[name="chartType"]').not(this).prop('checked', false);
                     $("#levelSelectorArea").hide();
                 }
                 else {
+                    $('#coopCheckbox').prop('checked', false);
                     $("#levelSelectorArea").show();
                 }
             });
-         });
+        });
 
-         function performSearch() {
+        function performSearch() {
             var $checked = $("[name='chartType']").filter(":checked");
                 var selectedChartTypes = $checked.map(function() {
                     return this.value;
@@ -57,17 +61,51 @@
                     "\nlevel = " + $("#levelText").text());
 
                 var result = searchSongName(songList, $("#songName").val());
+                result = searchChart(result, selectedChartTypes, levelRange);
                 
                 $("#result").html(JSON.stringify(result));
-         }
+        }
 
-         function searchSongName(arr, part) {
+        function searchSongName(arr, part) {
             if(part.trim() == "") {
                 return [];
             }
 
             part = part.toLowerCase();
             return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
+        }
+        
+        function searchChart(arr, types, level) {
+            if (arr.length == 0) {
+                return [];
+            }
+
+            var results = [];
+            if (types[0] == "coop") {
+                arr.forEach(function(song) {
+                    if (song.chartList.filter(a=>a.chartType=="coop").length > 0){
+                        results.push(song);
+                    }
+                });
+            }
+            else {
+                //search stepchart for each type
+                types.forEach(function(type) {
+                    arr.forEach(function(song) {
+                        if (song.chartList.filter(a=>
+                                                    a.chartType==type && 
+                                                    a.level >= level[0] && 
+                                                    a.level <= level[1])
+                                        .length > 0) {
+                            results.push(song);
+                        }
+                    });
+                });
+            }
+
+            //TODO: merge result for multiple chart type search
+
+            return results;
         }
     </script>
 </head>
@@ -89,7 +127,7 @@
         <br/>
             <input type="checkbox" name="chartType" value="doublePerformance">Double Performance
         <br/>
-            <input type="checkbox" name="chartType" value="coop">Coop
+            <input type="checkbox" name="chartType" value="coop" id="coopCheckbox">Coop
         </span>
     </p>
     <p>
