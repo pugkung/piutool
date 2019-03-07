@@ -9,85 +9,107 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
     <script>
-        var songList;
         var prime2File = $.getJSON( "data/songlist_prime2.json", function() {
             songList_prime2 = prime2File.responseJSON.songlist;
         });
         var xxFile = $.getJSON( "data/songlist_xx.json", function() {
             songList_xx = xxFile.responseJSON.songlist;
         });
-        var currentSonglist;
 
         $(function() {
             $("#submit").click(function() {
-                var selectedVersion = $("[name='version']:checked").val();
+                performSearch();
+            });
 
-                if (selectedVersion=="prime2") {
-                    currentSonglist = songList_prime2;
-                } else if (selectedVersion=="xx") {
-                    currentSonglist = songList_xx;
-                } else {
-                    currentSonglist = [];
+            document.onkeypress = function (e) {
+                if (e.keyCode == 13) {
+                    performSearch();
                 }
+            }
+         });
 
-                var result = "<table border=1><tr>" +
+        function performSearch() {
+            var currentSonglist;
+            var selectedVersion = $("[name='version']:checked").val();
+
+            if (selectedVersion=="prime2") {
+                currentSonglist = songList_prime2;
+            } else if (selectedVersion=="xx") {
+                currentSonglist = songList_xx;
+            } else {
+                currentSonglist = [];
+            }
+            
+            var result = searchSongName(currentSonglist, $("#songName").val());
+                
+            $("#result").html(displaySongList(result));
+        }
+
+        function searchSongName(arr, part) {
+            if(part.trim() == "") {
+                return arr;
+            }
+
+            part = part.toLowerCase();
+            return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
+        }
+
+        function displaySongList(songList) {
+            var result = "<table border=1><tr>" +
                 "<th>Song Name</th><th>Banner</th><th>Artist</th>" +
                 "<th>BPM</th><th>Type</th><th>Version</th>" +
                 "<th>Tags</th><th>Chart List</th></tr>"
-                for (var song in currentSonglist) {
-                    result += "<tr>";
+            for (var song in songList) {
+                result += "<tr>";
 
-                    result += "<td>" + currentSonglist[song].songName + "</td>";
-                    result += "<td><img width=120 height=90 src='data/img/songid/" + currentSonglist[song].songID + ".jpg'></td>";
-                    result += "<td>" + currentSonglist[song].artist + "</td>";
-                    result += "<td>" + currentSonglist[song].bpm + "</td>";
-                    result += "<td>" + currentSonglist[song].songType + "</td>";
-                    result += "<td>" + currentSonglist[song].version + "</td>";
+                result += "<td>" + songList[song].songName + "</td>";
+                result += "<td><img width=120 height=60 src='data/img/songid/" + songList[song].songID + ".jpg'></td>";
+                result += "<td>" + songList[song].artist + "</td>";
+                result += "<td>" + songList[song].bpm + "</td>";
+                result += "<td>" + songList[song].songType + "</td>";
+                result += "<td>" + songList[song].version + "</td>";
 
-                    //Display tags in song
-                    result += "<td>";
-                    var i=0;
-                    for (var tag in currentSonglist[song].tags) {
-                        result += currentSonglist[song].tags[tag];
-                        i++;
-                        if (i != currentSonglist[song].tags.length) {
-                            result += ", ";
-                        }
+                //Display tags in song
+                result += "<td>";
+                var i=0;
+                for (var tag in songList[song].tags) {
+                    result += songList[song].tags[tag];
+                    i++;
+                    if (i != songList[song].tags.length) {
+                        result += ", ";
                     }
-                    result += "</td>";
+                }
+                result += "</td>";
 
-                    //Display chartlist icons
-                    result += "<td>";
-                    for (var chart in currentSonglist[song].chartList) {
-                        switch (currentSonglist[song].chartList[chart].chartType) {
-                            case "single":
-                                result += "<img width=48 height=48 src='data/img/level/single/" + currentSonglist[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "double":
-                                result += "<img width=48 height=48 src='data/img/level/double/" + currentSonglist[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "singlePerformance":
-                                result += "<img width=48 height=48 src='data/img/level/singleperformance/" + currentSonglist[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "doublePerformance":
-                                result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + currentSonglist[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "coop":
-                                result += "<img width=48 height=48 src='data/img/level/coop/" + currentSonglist[song].chartList[chart].players + ".gif'>";
-                                break;
-                            default:
-                                result += "[TODO]";
-                        }
+                //Display chartlist icons
+                result += "<td>";
+                for (var chart in songList[song].chartList) {
+                    switch (songList[song].chartList[chart].chartType) {
+                        case "single":
+                            result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[chart].level + ".gif'>";
+                            break;
+                        case "double":
+                            result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[chart].level + ".gif'>";
+                            break;
+                        case "singlePerformance":
+                            result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[chart].level + ".gif'>";
+                            break;
+                        case "doublePerformance":
+                            result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[chart].level + ".gif'>";
+                            break;
+                        case "coop":
+                            result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[chart].players + ".gif'>";
+                            break;
+                        default:
+                            result += "[TODO]";
                     }
-
-                    result += "</td></tr>";
                 }
 
-                result += "</table>"; 
-                
-                $("#result").html(result);
-            });
-         });
+                result += "</td></tr>";
+            }
+            result += "</table>"; 
+            return result;
+        }
     </script>
 </head>
 <body>
@@ -95,8 +117,13 @@
     <p>
         <span class="label">Version: </span>
         <span class="inputField">
-            <input type="radio" name="version" value="prime2" checked>Prime 2</option>
-            <input type="radio" name="version" value="xx">XX</option>
+            <input type="radio" name="version" value="prime2" checked>Prime 2</input>
+            <input type="radio" name="version" value="xx">XX</input>
+        </span>
+    </br>
+        <span class="label">Song name: </span>
+        <span class="inputField">
+            <input type="text" id="songName" ></span>
         </span>
         <button id="submit">Load Data</button>
     </p>
