@@ -67,10 +67,6 @@
         }
 
         function searchSongName(arr, part) {
-            if(part.trim() == "") {
-                return [];
-            }
-
             part = part.toLowerCase();
             return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
         }
@@ -83,28 +79,40 @@
             var results = [];
             if (types[0] == "coop") {
                 arr.forEach(function(song) {
-                    if (song.chartList.filter(a=>a.chartType=="coop").length > 0){
-                        results.push(song);
+                    var matchedChartList = [];
+                    var temp = song.chartList.filter(a=>a.chartType=="coop");
+                    if (temp.length > 0){
+                        matchedChartList.push(temp);
+                    }
+
+                    if (matchedChartList.length > 0) {
+                        var resultSong = Object.assign({},song);
+                        resultSong.chartList = matchedChartList;
+                        results.push(resultSong);
                     }
                 });
             }
             else {
                 //search stepchart for each type
-                types.forEach(function(type) {
-                    arr.forEach(function(song) {
-                        if (song.chartList.filter(a=>
+                arr.forEach(function(song) {
+                    var matchedChartList = [];
+                    types.forEach(function(type){
+                        var temp = song.chartList.filter(a=>
                                                     a.chartType==type && 
                                                     a.level >= level[0] && 
-                                                    a.level <= level[1])
-                                        .length > 0) {
-                            results.push(song);
+                                                    a.level <= level[1]);
+                        if (temp.length > 0) {
+                            matchedChartList.push(temp);
                         }
                     });
+                    
+                    if (matchedChartList.length > 0) {
+                        var resultSong = Object.assign({},song);
+                        resultSong.chartList = matchedChartList;
+                        results.push(resultSong);
+                    }
                 });
             }
-
-            //TODO: merge result for multiple chart type search
-
             return results;
         }
     </script>
