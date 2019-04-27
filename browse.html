@@ -10,7 +10,7 @@
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
     <script>
         var songList;
-        var jsonFile = $.getJSON( "data/songlist_prime2.json", function() {
+        var jsonFile = $.getJSON( "data/songlist_xx.json", function() {
             songList = jsonFile.responseJSON.songlist;
         });
         var levelRange = [1,28];
@@ -168,6 +168,7 @@
             <input type="checkbox" name="version" value="Fiesta2" checked disabled>Fiesta2
             <input type="checkbox" name="version" value="Prime" checked disabled>Prime
             <input type="checkbox" name="version" value="Prime2" checked disabled>Prime2
+            <input type="checkbox" name="version" value="XX" checked disabled>XX
         </span>
     </p>
     <p id="levelSelectorArea">

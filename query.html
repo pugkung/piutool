@@ -5,7 +5,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
         var songList;
-        var jsonFile = $.getJSON( "data/songlist_prime2.json", function() {
+        var jsonFile = $.getJSON( "data/songlist_xx.json", function() {
             songList = jsonFile.responseJSON.songlist;
         });
         var placeholder;
@@ -26,7 +26,7 @@
 <div id="dataFields">
     SELECT</br>
     <textarea id="selectClause" rols="4" cols="60" placeholder="Enter Query Here...">*</textarea></br>
-    FROM JSON(data/songlist_prime2.json)</br>
+    FROM JSON(data/songlist_xx.json)</br>
     WHERE</br>
     <textarea id="whereClause" rols="4" cols="60" placeholder="Enter Query Here...">TRUE</textarea>
     </br><button onclick="runQuery()">Run Query</button>
