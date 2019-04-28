@@ -4,6 +4,8 @@
     <style>
         .label      {display: inline-block; width: 100px;}
         .inputField {display: inline-block; width: 220px;}
+        .levelBox   {position:relative; display: inline-block; width: 48px; height: 48px;}
+        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.3; background-image: url("data/img/level/locked.png"); background-size: 48px;}
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -28,7 +30,8 @@
             });
 
             $("#submit").click(function() {
-                performSearch();
+                var resultSongList = performSearch();
+                $("#result").html(displaySongList(resultSongList));
             });
 
             document.onkeypress = function (e) {
@@ -63,7 +66,8 @@
                 var result = searchSongName(songList, $("#songName").val());
                 result = searchChart(result, selectedChartTypes, levelRange);
                 
-                $("#result").html(JSON.stringify(result));
+                // $("#result").html(JSON.stringify(result));
+                return result;
         }
 
         function searchSongName(arr, part) {
@@ -115,6 +119,70 @@
             }
             return results;
         }
+
+        function displaySongList(songList) {
+            var result = "<table border=1><tr>" +
+                "<th>Song Name</th><th>Banner</th><th>Artist</th>" +
+                "<th>BPM</th><th>Type</th><th>Version</th>" +
+                "<th>Tags</th><th>Chart List</th></tr>"
+            for (var song in songList) {
+                result += "<tr>";
+
+                result += "<td>" + songList[song].songName + "</td>";
+                result += "<td><img width=120 height=60 src='data/img/songid/" + songList[song].songID + ".jpg'></td>";
+                result += "<td>" + songList[song].artist + "</td>";
+                result += "<td>" + songList[song].bpm + "</td>";
+                result += "<td>" + songList[song].songType + "</td>";
+                result += "<td>" + songList[song].version + "</td>";
+
+                //Display tags in song
+                result += "<td>";
+                var i=0;
+                for (var tag in songList[song].tags) {
+                    result += songList[song].tags[tag];
+                    i++;
+                    if (i != songList[song].tags.length) {
+                        result += ", ";
+                    }
+                }
+                result += "</td>";
+
+                //Display chartlist icons
+                result += "<td nowrap>";
+                for (var resultChartList in songList[song].chartList) {
+                    for (var chart in songList[song].chartList[resultChartList]) {
+                        result += "<div class='levelBox'>";
+                            switch (songList[song].chartList[resultChartList][chart].chartType) {
+                                case "single":
+                                    result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    break;
+                                case "double":
+                                    result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    break;
+                                case "singlePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    break;
+                                case "doublePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    break;
+                                case "coop":
+                                    result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[resultChartList][chart].players + ".gif'>";
+                                    break;
+                                default:
+                                    result += "[TODO]";
+                            }
+                            if (songList[song].chartList[resultChartList][chart].tags.indexOf("unlock") >= 0) {
+                                result += "<div class='unlockOverlay'></div>";
+                            }
+                        result += "</div>";
+                    }
+                }
+
+                result += "</td></tr>";
+            }
+            result += "</table>"; 
+            return result;
+        }
     </script>
 </head>
 <body>
@@ -136,39 +204,6 @@
             <input type="checkbox" name="chartType" value="doublePerformance">Double Performance
         <br/>
             <input type="checkbox" name="chartType" value="coop" id="coopCheckbox">Coop
-        </span>
-    </p>
-    <p>
-        <span class="label">
-            Version<br/>
-            (To be implemented)
-        </span>
-        <span class="inputField">
-            <input type="checkbox" name="version" value="All" checked disabled>All
-        <br/>
-            <input type="checkbox" name="version" value="1st" checked disabled>1st
-            <input type="checkbox" name="version" value="2nd" checked disabled>2nd
-            <input type="checkbox" name="version" value="3rd" checked disabled>3rd
-            <input type="checkbox" name="version" value="3rdSE" checked disabled>3rdSE
-        <br/>
-            <input type="checkbox" name="version" value="PerfectCollection" checked disabled>PerfectCollection
-            <input type="checkbox" name="version" value="Extra" checked disabled>Extra
-        <br/>
-            <input type="checkbox" name="version" value="Rebirth" checked disabled>Rebirth
-            <input type="checkbox" name="version" value="Premiere3" checked disabled>Premiere3
-            <input type="checkbox" name="version" value="Prex3" checked disabled>Prex3
-            <input type="checkbox" name="version" value="Exceed" checked disabled>Exceed
-            <input type="checkbox" name="version" value="Exceed2" checked disabled>Exceed2
-            <input type="checkbox" name="version" value="Zero" checked disabled>Zero
-            <input type="checkbox" name="version" value="NX" checked disabled>NX
-            <input type="checkbox" name="version" value="NX2" checked disabled>NX2
-            <input type="checkbox" name="version" value="NXA" checked disabled>NXA
-            <input type="checkbox" name="version" value="Fiesta" checked disabled>Fiesta
-            <input type="checkbox" name="version" value="FiestaEX" checked disabled>FiestaEX
-            <input type="checkbox" name="version" value="Fiesta2" checked disabled>Fiesta2
-            <input type="checkbox" name="version" value="Prime" checked disabled>Prime
-            <input type="checkbox" name="version" value="Prime2" checked disabled>Prime2
-            <input type="checkbox" name="version" value="XX" checked disabled>XX
         </span>
     </p>
     <p id="levelSelectorArea">
