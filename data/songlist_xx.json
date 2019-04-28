@@ -15722,13 +15722,13 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 5,
+                    "level"     : 6,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags6"      : []
+                    "tags"      : []
                 },
                 {
                     "chartType" : "single",

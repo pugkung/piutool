@@ -4,6 +4,8 @@
     <style>
         .label      {display: inline-block; width: 100px;}
         .inputField {display: inline-block; width: 220px;}
+        .levelBox   {position:relative; display: inline-block; width: 48px; height: 48px;}
+        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.3; background-image: url("data/img/level/locked.png"); background-size: 48px;}
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -82,27 +84,32 @@
                 result += "</td>";
 
                 //Display chartlist icons
-                result += "<td>";
+                result += "<td nowrap>";
                 for (var chart in songList[song].chartList) {
-                    switch (songList[song].chartList[chart].chartType) {
-                        case "single":
-                            result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[chart].level + ".gif'>";
-                            break;
-                        case "double":
-                            result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[chart].level + ".gif'>";
-                            break;
-                        case "singlePerformance":
-                            result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[chart].level + ".gif'>";
-                            break;
-                        case "doublePerformance":
-                            result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[chart].level + ".gif'>";
-                            break;
-                        case "coop":
-                            result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[chart].players + ".gif'>";
-                            break;
-                        default:
-                            result += "[TODO]";
-                    }
+                    result += "<div class='levelBox'>";
+                        switch (songList[song].chartList[chart].chartType) {
+                            case "single":
+                                result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[chart].level + ".gif'>";
+                                break;
+                            case "double":
+                                result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[chart].level + ".gif'>";
+                                break;
+                            case "singlePerformance":
+                                result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[chart].level + ".gif'>";
+                                break;
+                            case "doublePerformance":
+                                result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[chart].level + ".gif'>";
+                                break;
+                            case "coop":
+                                result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[chart].players + ".gif'>";
+                                break;
+                            default:
+                                result += "[TODO]";
+                        }
+                        if (songList[song].chartList[chart].tags.indexOf("unlock") >= 0) {
+                            result += "<div class='unlockOverlay'></div>";
+                        }
+                    result += "</div>";
                 }
 
                 result += "</td></tr>";
