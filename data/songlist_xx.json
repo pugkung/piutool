@@ -31,22 +31,22 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 6,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
                     "tags"      : ["bracket"]
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 22,
+                    "level"     : 21,
                     "tags"      : ["bracket"]
                 }
             ]
@@ -123,17 +123,17 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -148,7 +148,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -179,7 +179,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -210,7 +210,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -220,22 +220,22 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 8,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
                     "level"     : 17,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -363,7 +363,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 1,
+                    "level"     : 2,
                     "tags"      : []
                 },
                 {
@@ -451,12 +451,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -585,7 +585,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -641,7 +641,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 8,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -651,7 +651,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 27,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -697,17 +697,17 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "single",
                     "level"     : 17,
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
-                    "level"     : 7,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -748,12 +748,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -768,7 +768,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -881,7 +881,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -896,7 +896,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -927,7 +927,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -953,17 +953,17 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -1039,7 +1039,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : ["jackhammer"]
                 },
                 {
@@ -1075,7 +1075,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -1141,22 +1141,22 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -1177,7 +1177,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -1187,7 +1187,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 }
             ]
@@ -1208,7 +1208,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -1264,7 +1269,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -1310,7 +1315,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -1366,7 +1371,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -1484,7 +1489,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -1633,12 +1638,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -1653,7 +1658,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -1679,22 +1684,22 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 3,
+                    "level"     : 2,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 4,
+                    "level"     : 5,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -1704,17 +1709,17 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 10,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
                     "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -1878,7 +1883,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -2046,22 +2051,17 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 17,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -2077,7 +2077,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 3,
+                    "level"     : 4,
                     "tags"      : []
                 },
                 {
@@ -2087,7 +2087,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -2138,7 +2143,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -2153,7 +2158,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -2194,7 +2199,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -2245,7 +2250,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -2276,12 +2281,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -2296,7 +2301,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -2337,12 +2342,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 17,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -2388,7 +2393,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -2439,7 +2444,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -2490,7 +2495,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -2521,7 +2526,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 3,
+                    "level"     : 4,
                     "tags"      : []
                 },
                 {
@@ -2567,32 +2572,32 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 5,
+                    "level"     : 6,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 10,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
                     "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
                     "tags"      : []
                 }
             ]
@@ -2618,12 +2623,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -2638,7 +2643,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -2664,17 +2669,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 9,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -2797,12 +2797,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -2853,7 +2853,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -2873,7 +2873,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 10,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -2904,7 +2904,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -2914,7 +2914,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -2935,7 +2935,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -2945,7 +2945,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -2997,12 +2997,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -3052,6 +3052,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 14,
                     "tags"      : []
@@ -3079,7 +3084,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -3252,7 +3257,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -3298,7 +3303,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -3324,17 +3329,17 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -3401,17 +3406,17 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -3421,12 +3426,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -3472,12 +3477,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : ["jumps"]
                 },
                 {
@@ -3513,7 +3518,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -3569,7 +3574,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -3615,7 +3620,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -3646,7 +3651,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -3661,7 +3666,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -3697,7 +3702,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -3712,7 +3717,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -3779,7 +3784,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -3789,27 +3794,27 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 9,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
                     "tags"      : []
                 }
             ]
@@ -3825,17 +3830,17 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 7,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -3850,7 +3855,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -3886,12 +3891,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 24,
                     "tags"      : []
                 }
             ]
@@ -3907,7 +3912,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -3959,12 +3964,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 }
             ]
@@ -4108,7 +4113,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -4118,7 +4123,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -4149,7 +4154,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -4185,12 +4190,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -4220,7 +4225,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -4256,7 +4261,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : ["bracket"]
                 },
                 {
@@ -4266,7 +4271,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -4307,7 +4312,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
@@ -4317,7 +4322,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -4404,12 +4409,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -4461,7 +4466,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -4573,7 +4578,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -4630,7 +4635,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 2,
+                    "level"     : 3,
                     "tags"      : []
                 },
                 {
@@ -4768,12 +4773,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -4911,7 +4916,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -4932,7 +4937,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -4958,7 +4963,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -5021,37 +5026,6 @@
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
-                }
-            ]
-        },
-        {
-            "songID"    : 134,
-            "songName"  : "msgoon RMX pt.3",
-            "artist"    : "msgoon",
-            "bpm"       : 168,
-            "songType"  : "remix",
-            "version"   : "NXA",
-            "tags"      : [],
-            "chartList" : [
-                {
-                    "chartType" : "single",
-                    "level"     : 6,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "single",
-                    "level"     : 17,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 11,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -5134,7 +5108,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 3,
+                    "level"     : 2,
                     "tags"      : []
                 },
                 {
@@ -5154,12 +5128,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -5322,12 +5296,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -5368,22 +5342,22 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -5516,7 +5490,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 27,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -5537,12 +5511,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -5552,12 +5526,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 10,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -5654,7 +5628,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -5680,7 +5654,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -5690,7 +5664,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -5741,7 +5715,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -5787,12 +5761,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -5802,7 +5776,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -5823,12 +5797,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -5864,7 +5838,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 3,
+                    "level"     : 4,
                     "tags"      : []
                 },
                 {
@@ -5940,7 +5914,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -6019,12 +5993,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -6040,12 +6014,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -6061,7 +6035,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -6087,7 +6061,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -6129,7 +6103,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 8,
                     "tags"      : []
                 },
                 {
@@ -6139,7 +6113,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 }
             ]
@@ -6155,17 +6129,17 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -6191,7 +6165,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 }
             ]
@@ -6264,12 +6238,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -6300,7 +6274,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 }
             ]
@@ -6321,7 +6295,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -6384,7 +6358,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -6451,7 +6425,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -6487,7 +6461,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -6497,7 +6471,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -6518,7 +6492,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -6528,17 +6502,17 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 14,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 23,
                     "tags"      : []
                 }
             ]
@@ -6569,8 +6543,8 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
-                    "tags"      : ["overrated"]
+                    "level"     : 17,
+                    "tags"      : []
                 },
                 {
                     "chartType" : "single",
@@ -6585,7 +6559,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["overrated"]
+                    "tags"      : []
                 },
                 {
                     "chartType" : "double",
@@ -6625,7 +6599,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -6671,12 +6645,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 27,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -6869,7 +6843,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -6981,7 +6955,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : ["bracket", "footswitch"]
                 },
                 {
@@ -7073,7 +7047,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -7195,17 +7169,17 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 13,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -7409,7 +7383,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -7419,7 +7393,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 },
                 {
@@ -7533,7 +7507,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 }
             ]
@@ -7554,7 +7528,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 22,
                     "tags"      : []
                 }
             ]
@@ -7653,7 +7627,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -7782,22 +7756,22 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 22,
                     "tags"      : []
                 }
             ]
@@ -7874,12 +7848,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 22,
                     "tags"      : []
                 }
             ]
@@ -7910,7 +7884,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -7920,7 +7894,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -8053,7 +8027,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -8088,18 +8062,13 @@
                     "tags"      : ["bracket"]
                 },
                 {
-                    "chartType" : "single",
-                    "level"     : 22,
-                    "tags"      : ["bracket"]
-                },
-                {
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : ["bracket"]
                 }
             ]
@@ -8125,7 +8094,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -8166,7 +8135,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -8212,7 +8181,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -8222,17 +8191,17 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : ["gimmick"]
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -8329,7 +8298,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -8375,7 +8344,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 23,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -8421,12 +8390,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -8436,12 +8405,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 22,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 8,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -8456,7 +8425,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 },
                 {
@@ -8477,12 +8446,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -8492,12 +8461,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -8507,7 +8476,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 }
             ]
@@ -8523,22 +8492,22 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 23,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -8584,12 +8553,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -8604,7 +8573,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -8630,12 +8599,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -8671,7 +8640,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -8681,7 +8650,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -8691,7 +8660,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : ["jumps"]
                 }
             ]
@@ -8768,7 +8737,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -8778,7 +8747,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -8834,7 +8803,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 20,
                     "tags"      : ["jackhammer"]
                 },
                 {
@@ -8844,7 +8813,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 }
             ]
@@ -8890,7 +8859,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 }
             ]
@@ -8982,12 +8951,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 5,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 10,
                     "tags"      : []
                 }
             ]
@@ -9003,7 +8972,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -9033,7 +9002,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 24,
                     "tags"      : []
                 }
             ]
@@ -9054,7 +9023,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 }
             ]
@@ -9075,7 +9044,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 }
             ]
@@ -9390,7 +9359,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -9400,7 +9369,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -9431,7 +9400,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -9446,12 +9415,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 24,
                     "tags"      : []
                 },
                 {
@@ -9558,12 +9527,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -9604,7 +9573,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -9619,17 +9588,17 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
                     "level"     : 19,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
                     "tags"      : []
                 },
                 {
@@ -9818,7 +9787,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -9833,7 +9802,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -9920,7 +9889,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -9971,7 +9940,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -10068,7 +10037,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -10226,7 +10195,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -10272,12 +10241,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -10343,7 +10312,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -10358,7 +10327,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 24,
                     "tags"      : []
                 },
                 {
@@ -10420,7 +10389,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -10440,7 +10409,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -10491,7 +10460,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -10557,12 +10526,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -10572,7 +10541,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 13,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
@@ -10623,7 +10592,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -10720,12 +10689,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -10883,7 +10852,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -10893,7 +10862,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -10985,7 +10954,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -11006,12 +10975,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -11021,12 +10990,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -11036,7 +11005,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 23,
+                    "level"     : 24,
                     "tags"      : []
                 },
                 {
@@ -11138,7 +11107,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -11174,7 +11143,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -11184,7 +11153,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -11296,7 +11265,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -11327,7 +11296,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -11460,7 +11429,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 8,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
@@ -11470,7 +11439,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -11485,7 +11454,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 12,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -11541,7 +11510,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -11577,7 +11546,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 10,
                     "tags"      : []
                 },
                 {
@@ -11597,7 +11566,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -11663,7 +11632,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 },
                 {
@@ -11785,7 +11754,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -11831,7 +11800,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -11846,7 +11815,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -11938,7 +11907,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -12009,7 +11978,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -12126,7 +12095,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -12375,7 +12344,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -12385,7 +12354,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -12563,7 +12532,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -12578,7 +12547,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -12756,7 +12725,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -13102,12 +13071,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 16,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -13143,7 +13112,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -13153,7 +13122,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -13189,7 +13158,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -13205,7 +13174,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -13303,7 +13272,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -13375,7 +13344,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 23,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -13422,7 +13391,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 13,
                     "tags"      : []
                 },
                 {
@@ -13526,7 +13495,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -13630,6 +13599,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -13884,7 +13858,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -14052,7 +14026,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 10,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -14199,7 +14173,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -14307,17 +14281,17 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 }
             ]
@@ -14333,12 +14307,12 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 5,
+                    "level"     : 9,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -14353,12 +14327,12 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 22,
+                    "level"     : 23,
                     "tags"      : []
                 }
             ]
@@ -14572,7 +14546,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -14828,7 +14802,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 16,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -14848,7 +14822,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 20,
                     "tags"      : []
                 },
                 {
@@ -14879,12 +14853,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 13,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "single",
-                    "level"     : 13,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -14899,7 +14868,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -14955,7 +14924,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 19,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -15133,7 +15102,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 21,
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -15317,7 +15286,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -15561,11 +15530,6 @@
                     "tags"      : []
                 },
                 {
-                    "chartType" : "double",
-                    "level"     : 21,
-                    "tags"      : []
-                },
-                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
@@ -15588,7 +15552,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 22,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -15762,7 +15726,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 22,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -15788,7 +15752,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -15890,12 +15854,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 11,
+                    "level"     : 12,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -15966,7 +15930,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 },
                 {
@@ -16017,7 +15981,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : []
                 },
                 {
@@ -16155,7 +16119,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 18,
+                    "level"     : 19,
                     "tags"      : ["gimmick"]
                 },
                 {
@@ -16170,7 +16134,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : ["gimmick"]
                 }
             ]
@@ -16272,7 +16236,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 19,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -16328,7 +16292,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -16369,7 +16333,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
@@ -16384,12 +16348,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 6,
-                    "tags"      : []
-                },
-                {
-                    "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 7,
                     "tags"      : []
                 },
                 {
@@ -16410,7 +16369,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -16487,7 +16446,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 17,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -16523,7 +16482,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -16538,7 +16497,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 15,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
@@ -16559,7 +16518,7 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 9,
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -16829,7 +16788,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 22,
+                    "level"     : 21,
                     "tags"      : []
                 }
             ]
@@ -16967,7 +16926,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 21,
                     "tags"      : []
                 }
             ]
@@ -17151,12 +17110,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -17166,7 +17125,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -17284,12 +17243,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -17299,7 +17258,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 14,
+                    "level"     : 15,
                     "tags"      : []
                 },
                 {
@@ -17371,12 +17330,12 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 17,
+                    "level"     : 16,
                     "tags"      : []
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 20,
+                    "level"     : 19,
                     "tags"      : []
                 },
                 {
@@ -17579,6 +17538,58 @@
         },
         {
             "songID"    : 548,
+            "songName"  : "BanYa-P Classic Mix",
+            "artist"    : "BanYa Production",
+            "bpm"       : [92,180],
+            "songType"  : "remix",
+            "version"   : "NX",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 549,
+            "songName"  : "Ugly Duck Toccata",
+            "artist"    : "BanYa Production",
+            "bpm"       : 104,
+            "songType"  : "remix",
+            "version"   : "NXA",
+            "tags"      : [],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 550,
             "songName"  : "Kitty Cat",
             "artist"    : "Coconut",
             "bpm"       : 128,
@@ -17624,7 +17635,7 @@
             ]
         },
         {
-            "songID"    : 549,
+            "songID"    : 551,
             "songName"  : "Wedding Crashers",
             "artist"    : "SHK",
             "bpm"       : 165,
@@ -17700,7 +17711,7 @@
             ]
         },
         {
-            "songID"    : 550,
+            "songID"    : 552,
             "songName"  : "Obliteration",
             "artist"    : "ATAS",
             "bpm"       : 150,
@@ -17746,7 +17757,7 @@
             ]
         },
         {
-            "songID"    : 551,
+            "songID"    : 553,
             "songName"  : "I Want U",
             "artist"    : "MAX",
             "bpm"       : 156,
@@ -17807,7 +17818,7 @@
             ]
         },
         {
-            "songID"    : 552,
+            "songID"    : 554,
             "songName"  : "Nyarlathotep",
             "artist"    : "Nato",
             "bpm"       : 200,
@@ -17868,7 +17879,7 @@
             ]
         },
         {
-            "songID"    : 553,
+            "songID"    : 555,
             "songName"  : "Skeptic",
             "artist"    : "Doin",
             "bpm"       : 200,
@@ -17919,7 +17930,7 @@
             ]
         },
         {
-            "songID"    : 554,
+            "songID"    : 556,
             "songName"  : "%X (Percent X)",
             "artist"    : "Pory",
             "bpm"       : 150,
@@ -17975,7 +17986,7 @@
             ]
         },
         {
-            "songID"    : 555,
+            "songID"    : 557,
             "songName"  : "Le Grand Rouge",
             "artist"    : "KIEN",
             "bpm"       : 166,
@@ -18021,7 +18032,7 @@
             ]
         },
         {
-            "songID"    : 556,
+            "songID"    : 558,
             "songName"  : "Macaron Day",
             "artist"    : "HyuN",
             "bpm"       : 173,
@@ -18057,7 +18068,7 @@
             ]
         },
         {
-            "songID"    : 557,
+            "songID"    : 559,
             "songName"  : "Poseidon",
             "artist"    : "Quree",
             "bpm"       : 160,
@@ -18113,7 +18124,7 @@
             ]
         },
         {
-            "songID"    : 558,
+            "songID"    : 560,
             "songName"  : "VANISH",
             "artist"    : "Applesoda",
             "bpm"       : 174,
@@ -18169,7 +18180,7 @@
             ]
         },
         {
-            "songID"    : 559,
+            "songID"    : 561,
             "songName"  : "Kimchi Fingers",
             "artist"    : "Garlic Squad",
             "bpm"       : 190,
@@ -18210,7 +18221,7 @@
             ]
         },
         {
-            "songID"    : 560,
+            "songID"    : 562,
             "songName"  : "Fly high",
             "artist"    : "Dreamcatcher",
             "bpm"       : 154,
@@ -18271,7 +18282,7 @@
             ]
         },
         {
-            "songID"    : 561,
+            "songID"    : 563,
             "songName"  : "HANN (Alone)",
             "artist"    : "(G)I-DLE",
             "bpm"       : 105,
@@ -18322,7 +18333,7 @@
             ]
         },
         {
-            "songID"    : 562,
+            "songID"    : 564,
             "songName"  : "NEKKOYA (PICK ME)",
             "artist"    : "PRODUCE48",
             "bpm"       : 128,
@@ -18378,7 +18389,7 @@
             ]
         },
         {
-            "songID"    : 563,
+            "songID"    : 565,
             "songName"  : "I'm so sick",
             "artist"    : "APink",
             "bpm"       : 124,
@@ -18444,7 +18455,7 @@
             ]
         },
         {
-            "songID"    : 564,
+            "songID"    : 566,
             "songName"  : "BOOMERANG",
             "artist"    : "Wanna One",
             "bpm"       : 100,
@@ -18510,7 +18521,7 @@
             ]
         },
         {
-            "songID"    : 565,
+            "songID"    : 567,
             "songName"  : "BBoom BBoom",
             "artist"    : "MOMOLAND",
             "bpm"       : 126,
@@ -18576,7 +18587,7 @@
             ]
         },
         {
-            "songID"    : 566,
+            "songID"    : 568,
             "songName"  : "LOVE SCENARIO",
             "artist"    : "iKON",
             "bpm"       : 118,
@@ -18632,7 +18643,7 @@
             ]
         },
         {
-            "songID"    : 567,
+            "songID"    : 569,
             "songName"  : "VERY NICE",
             "artist"    : "SEVENTEEN",
             "bpm"       : 122,
@@ -18698,7 +18709,7 @@
             ]
         },
         {
-            "songID"    : 568,
+            "songID"    : 570,
             "songName"  : "GOOD BYE",
             "artist"    : "HONG JINYOUNG",
             "bpm"       : 139,
@@ -18759,7 +18770,7 @@
             ]
         },
         {
-            "songID"    : 569,
+            "songID"    : 571,
             "songName"  : "Club Night",
             "artist"    : "Matduke",
             "bpm"       : 170,
@@ -18815,7 +18826,7 @@
             ]
         },
         {
-            "songID"    : 570,
+            "songID"    : 572,
             "songName"  : "86",
             "artist"    : "Dasu",
             "bpm"       : 167,
@@ -18856,7 +18867,7 @@
             ]
         },
         {
-            "songID"    : 571,
+            "songID"    : 573,
             "songName"  : "Imagination",
             "artist"    : "SHK",
             "bpm"       : 180,
@@ -18897,7 +18908,7 @@
             ]
         },
         {
-            "songID"    : 572,
+            "songID"    : 574,
             "songName"  : "Black Swan",
             "artist"    : "zeron",
             "bpm"       : 175,
@@ -18943,7 +18954,7 @@
             ]
         },
         {
-            "songID"    : 573,
+            "songID"    : 575,
             "songName"  : "Obelisque",
             "artist"    : "ESTi X M2U",
             "bpm"       : 130,
@@ -19009,7 +19020,7 @@
             ]
         },
         {
-            "songID"    : 574,
+            "songID"    : 576,
             "songName"  : "Loki",
             "artist"    : "Lotze",
             "bpm"       : 140,
@@ -19055,7 +19066,7 @@
             ]
         },
         {
-            "songID"    : 575,
+            "songID"    : 577,
             "songName"  : "Dement ~After Legend~",
             "artist"    : "Lunatic Sounds",
             "bpm"       : 210,
@@ -19081,7 +19092,7 @@
             ]
         },
         {
-            "songID"    : 576,
+            "songID"    : 578,
             "songName"  : "Desaparecer",
             "artist"    : "Applesoda vs MAX",
             "bpm"       : 174,
@@ -19107,7 +19118,7 @@
             ]
         },
         {
-            "songID"    : 577,
+            "songID"    : 579,
             "songName"  : "BBoom BBoom - FULL SONG -",
             "artist"    : "MOMOLAND",
             "bpm"       : 126,
@@ -19128,7 +19139,7 @@
             ]
         },
         {
-            "songID"    : 578,
+            "songID"    : 580,
             "songName"  : "Nyarlathotep - SHORT CUT -",
             "artist"    : "Nato",
             "bpm"       : 200,
@@ -19149,7 +19160,7 @@
             ]
         },
         {
-            "songID"    : 579,
+            "songID"    : 581,
             "songName"  : "Wedding Crashers - SHORT CUT -",
             "artist"    : "SHK",
             "bpm"       : 165,
@@ -19170,7 +19181,7 @@
             ]
         },
         {
-            "songID"    : 580,
+            "songID"    : 582,
             "songName"  : "Boong Boong (Feat. Sik-K)",
             "artist"    : "HAON",
             "bpm"       : 136,
@@ -19231,7 +19242,7 @@
             ]
         },
         {
-            "songID"    : 581,
+            "songID"    : 583,
             "songName"  : "The Little Prince",
             "artist"    : "HAON, PULLIK",
             "bpm"       : 115,
@@ -19292,7 +19303,7 @@
             ]
         },
         {
-            "songID"    : 582,
+            "songID"    : 584,
             "songName"  : "Timing",
             "artist"    : "HIGHTEEN",
             "bpm"       : 164,
@@ -19343,7 +19354,7 @@
             ]
         },
         {
-            "songID"    : 583,
+            "songID"    : 585,
             "songName"  : "Ice of Death",
             "artist"    : "Fiverwater",
             "bpm"       : 172,
@@ -19394,7 +19405,7 @@
             ]
         },
         {
-            "songID"    : 584,
+            "songID"    : 586,
             "songName"  : "Xeroize",
             "artist"    : "FE",
             "bpm"       : 200,
@@ -19440,7 +19451,7 @@
             ]
         },
         {
-            "songID"    : 585,
+            "songID"    : 587,
             "songName"  : "Nihilism -Another Ver.-",
             "artist"    : "Nato",
             "bpm"       : 190,
@@ -19486,7 +19497,7 @@
             ]
         },
         {
-            "songID"    : 586,
+            "songID"    : 588,
             "songName"  : "86",
             "artist"    : "Dasu",
             "bpm"       : 167,
@@ -19512,7 +19523,7 @@
             ]
         },
         {
-            "songID"    : 587,
+            "songID"    : 589,
             "songName"  : "XX OPENING",
             "artist"    : "MAX",
             "bpm"       : 175,
@@ -19553,7 +19564,7 @@
             ]
         },
         {
-            "songID"    : 588,
+            "songID"    : 590,
             "songName"  : "Gashina",
             "artist"    : "SUNMI",
             "bpm"       : 94,
@@ -19614,7 +19625,7 @@
             ]
         },
         {
-            "songID"    : 589,
+            "songID"    : 591,
             "songName"  : "Time for the moon night",
             "artist"    : "GFRIEND",
             "bpm"       : 170,
@@ -19665,7 +19676,7 @@
             ]
         },
         {
-            "songID"    : 590,
+            "songID"    : 592,
             "songName"  : "YOU AND I",
             "artist"    : "Dreamcatcher",
             "bpm"       : 194,
@@ -19726,7 +19737,7 @@
             ]
         },
         {
-            "songID"    : 591,
+            "songID"    : 593,
             "songName"  : "1949",
             "artist"    : "SLAM",
             "bpm"       : 220,
@@ -19762,7 +19773,7 @@
             ]
         },
         {
-            "songID"    : 592,
+            "songID"    : 594,
             "songName"  : "Rage of Fire",
             "artist"    : "MAX",
             "bpm"       : 155,
@@ -19813,7 +19824,7 @@
             ]
         },
         {
-            "songID"    : 593,
+            "songID"    : 595,
             "songName"  : "Meteo5cience",
             "artist"    : "Paul Bazooka",
             "bpm"       : 140,
@@ -19844,7 +19855,7 @@
             ]
         },
         {
-            "songID"    : 594,
+            "songID"    : 596,
             "songName"  : "Allegro Con Fuoco - FULL SONG -",
             "artist"    : "DM Ashura",
             "bpm"       : 156,
