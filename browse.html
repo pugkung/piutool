@@ -5,11 +5,12 @@
         .label      {display: inline-block; width: 100px;}
         .inputField {display: inline-block; width: 220px;}
         .levelBox   {position:relative; display: inline-block; width: 48px; height: 48px;}
-        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.3; background-image: url("data/img/level/locked.png"); background-size: 48px;}
+        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.4; background-image: url("data/img/level/locked.png"); background-size: 48px;}
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.min.js"></script>
+    <script src="./searchTool.js"></script>
     <script>
         var songList;
         var jsonFile = $.getJSON( "data/songlist_xx.json", function() {
@@ -57,65 +58,10 @@
                     return this.value;
                 }).get();
 
-                console.log("Searching with" +
-                    "\nsongName = " + $("#songName").val() + 
-                    "\nchartType = " +  selectedChartTypes + 
-                    "\nlevel = " + $("#levelText").text());
-
                 var result = searchSongName(songList, $("#songName").val());
                 result = searchChart(result, selectedChartTypes, levelRange);
                 
                 return result;
-        }
-
-        function searchSongName(arr, part) {
-            part = part.toLowerCase();
-            return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
-        }
-        
-        function searchChart(arr, types, level) {
-            if (arr.length == 0) {
-                return [];
-            }
-
-            var results = [];
-            if (types.includes("coop")) {
-                arr.forEach(function(song) {
-                    var matchedChartList = [];
-                    var temp = song.chartList.filter(a=>a.chartType=="coop");
-                    if (temp.length > 0){
-                        matchedChartList.push(temp);
-                    }
-
-                    if (matchedChartList.length > 0) {
-                        var resultSong = Object.assign({},song);
-                        resultSong.chartList = matchedChartList;
-                        results.push(resultSong);
-                    }
-                });
-            }
-            else {
-                //search stepchart for each type
-                arr.forEach(function(song) {
-                    var matchedChartList = [];
-                    types.forEach(function(type){
-                        var temp = song.chartList.filter(a=>
-                                                    a.chartType==type && 
-                                                    a.level >= level[0] && 
-                                                    a.level <= level[1]);
-                        if (temp.length > 0) {
-                            matchedChartList.push(temp);
-                        }
-                    });
-                    
-                    if (matchedChartList.length > 0) {
-                        var resultSong = Object.assign({},song);
-                        resultSong.chartList = matchedChartList;
-                        results.push(resultSong);
-                    }
-                });
-            }
-            return results;
         }
 
         function displaySongList(songList) {
@@ -146,8 +92,8 @@
 
                 //Display chartlist icons
                 result += "<td nowrap>";
-                song.chartList.forEach(function(resultChartList){
-                    resultChartList.forEach(function (chart) {
+                // song.chartList.forEach(function(resultChartList){
+                    song.chartList.forEach(function (chart) {
                         result += "<div class='levelBox'>";
                             switch (chart.chartType) {
                                 case "single":
@@ -173,7 +119,7 @@
                             }
                         result += "</div>";
                     });
-                });
+                // });
                 result += "</td></tr>";
             });
             result += "</table>"; 

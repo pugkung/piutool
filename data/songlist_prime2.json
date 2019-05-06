@@ -898,7 +898,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 27,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -6385,7 +6385,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 27,
+                    "level"     : 18,
                     "tags"      : []
                 },
                 {
@@ -7738,7 +7738,7 @@
                 },
                 {
                     "chartType" : "single",
-                    "level"     : 27,
+                    "level"     : 17,
                     "tags"      : []
                 },
                 {
@@ -19622,7 +19622,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags6"      : []
+                    "tags"      : []
                 },
                 {
                     "chartType" : "single",

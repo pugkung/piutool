@@ -5,11 +5,12 @@
         .label      {display: inline-block; width: 100px;}
         .inputField {display: inline-block; width: 220px;}
         .levelBox   {position:relative; display: inline-block; width: 48px; height: 48px;}
-        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.3; background-image: url("data/img/level/locked.png"); background-size: 48px;}
+        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.4; background-image: url("data/img/level/locked.png"); background-size: 48px;}
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+    <script src="./searchTool.js"></script>
     <script>
         var prime2File = $.getJSON( "data/songlist_prime2.json", function() {
             songList_prime2 = prime2File.responseJSON.songlist;
@@ -47,73 +48,62 @@
             $("#result").html(displaySongList(result));
         }
 
-        function searchSongName(arr, part) {
-            if(part.trim() == "") {
-                return arr;
-            }
-
-            part = part.toLowerCase();
-            return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
-        }
-
         function displaySongList(songList) {
             var result = "<table border=1><tr>" +
                 "<th>Song Name</th><th>Banner</th><th>Artist</th>" +
                 "<th>BPM</th><th>Type</th><th>Version</th>" +
                 "<th>Tags</th><th>Chart List</th></tr>"
-            for (var song in songList) {
+            songList.forEach(function(song) {
                 result += "<tr>";
-
-                result += "<td>" + songList[song].songName + "</td>";
-                result += "<td><img width=120 height=60 src='data/img/songid/" + songList[song].songID + ".jpg'></td>";
-                result += "<td>" + songList[song].artist + "</td>";
-                result += "<td>" + songList[song].bpm + "</td>";
-                result += "<td>" + songList[song].songType + "</td>";
-                result += "<td>" + songList[song].version + "</td>";
+                result += "<td>" + song.songName + "</td>";
+                result += "<td><img width=120 height=60 src='data/img/songid/" + song.songID + ".jpg'></td>";
+                result += "<td>" + song.artist + "</td>";
+                result += "<td>" + song.bpm + "</td>";
+                result += "<td>" + song.songType + "</td>";
+                result += "<td>" + song.version + "</td>";
 
                 //Display tags in song
                 result += "<td>";
                 var i=0;
-                for (var tag in songList[song].tags) {
-                    result += songList[song].tags[tag];
+                song.tags.forEach(function(tag) {
+                    result += tag;
                     i++;
-                    if (i != songList[song].tags.length) {
+                    if (i != song.tags.length) {
                         result += ", ";
                     }
-                }
+                });
                 result += "</td>";
 
                 //Display chartlist icons
                 result += "<td nowrap>";
-                for (var chart in songList[song].chartList) {
-                    result += "<div class='levelBox'>";
-                        switch (songList[song].chartList[chart].chartType) {
-                            case "single":
-                                result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "double":
-                                result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "singlePerformance":
-                                result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "doublePerformance":
-                                result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[chart].level + ".gif'>";
-                                break;
-                            case "coop":
-                                result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[chart].players + ".gif'>";
-                                break;
-                            default:
-                                result += "[TODO]";
-                        }
-                        if (songList[song].chartList[chart].tags.indexOf("unlock") >= 0) {
-                            result += "<div class='unlockOverlay'></div>";
-                        }
-                    result += "</div>";
-                }
-
+                    song.chartList.forEach(function (chart) {
+                        result += "<div class='levelBox'>";
+                            switch (chart.chartType) {
+                                case "single":
+                                    result += "<img width=48 height=48 src='data/img/level/single/" + chart.level + ".gif'>";
+                                    break;
+                                case "double":
+                                    result += "<img width=48 height=48 src='data/img/level/double/" + chart.level + ".gif'>";
+                                    break;
+                                case "singlePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/singleperformance/" + chart.level + ".gif'>";
+                                    break;
+                                case "doublePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + chart.level + ".gif'>";
+                                    break;
+                                case "coop":
+                                    result += "<img width=48 height=48 src='data/img/level/coop/" + chart.players + ".gif'>";
+                                    break;
+                                default:
+                                    result += "[TODO]";
+                            }
+                            if (chart.tags.indexOf("unlock") >= 0) {
+                                result += "<div class='unlockOverlay'></div>";
+                            }
+                        result += "</div>";
+                    });
                 result += "</td></tr>";
-            }
+            });
             result += "</table>"; 
             return result;
         }
