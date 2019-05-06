@@ -17702,11 +17702,6 @@
                     "chartType" : "coop",
                     "players"   : 3,
                     "tags"      : ["unlock"]
-                },
-                {
-                    "chartType" : "doublePerformance",
-                    "level"     : 4,
-                    "tags"      : []
                 }
             ]
         },
