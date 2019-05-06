@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link href="https://code.jquery.com/ui/1.12.1/themes/blitzer/jquery-ui.css" rel=stylesheet>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.min.css" rel="stylesheet">
     <style>
         .label      {display: inline-block; width: 100px;}
         .inputField {display: inline-block; width: 220px;}
@@ -9,7 +9,7 @@
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.min.js"></script>
     <script>
         var songList;
         var jsonFile = $.getJSON( "data/songlist_xx.json", function() {
@@ -19,13 +19,12 @@
 
         $(function() {
             $("#level").slider({
-                range:true,
-                min: 1,
-                max: 28,
-                values: [1, 28],
-                slide: function(event, ui) {
-                    levelRange = ui.values;
-                    $("#levelText").text(ui.values[0] + " - " + ui.values[1]);
+                formatter: function(value) {
+                    if(value.length > 1){
+                        levelRange = value;
+                        $("#levelText").text(value[0] + " - " + value[1]);
+                    }
+                    return 'Current value: ' + value;
                 }
             });
 
@@ -66,7 +65,6 @@
                 var result = searchSongName(songList, $("#songName").val());
                 result = searchChart(result, selectedChartTypes, levelRange);
                 
-                // $("#result").html(JSON.stringify(result));
                 return result;
         }
 
@@ -81,7 +79,7 @@
             }
 
             var results = [];
-            if (types[0] == "coop") {
+            if (types.includes("coop")) {
                 arr.forEach(function(song) {
                     var matchedChartList = [];
                     var temp = song.chartList.filter(a=>a.chartType=="coop");
@@ -125,61 +123,59 @@
                 "<th>Song Name</th><th>Banner</th><th>Artist</th>" +
                 "<th>BPM</th><th>Type</th><th>Version</th>" +
                 "<th>Tags</th><th>Chart List</th></tr>"
-            for (var song in songList) {
+            songList.forEach(function(song) {
                 result += "<tr>";
-
-                result += "<td>" + songList[song].songName + "</td>";
-                result += "<td><img width=120 height=60 src='data/img/songid/" + songList[song].songID + ".jpg'></td>";
-                result += "<td>" + songList[song].artist + "</td>";
-                result += "<td>" + songList[song].bpm + "</td>";
-                result += "<td>" + songList[song].songType + "</td>";
-                result += "<td>" + songList[song].version + "</td>";
+                result += "<td>" + song.songName + "</td>";
+                result += "<td><img width=120 height=60 src='data/img/songid/" + song.songID + ".jpg'></td>";
+                result += "<td>" + song.artist + "</td>";
+                result += "<td>" + song.bpm + "</td>";
+                result += "<td>" + song.songType + "</td>";
+                result += "<td>" + song.version + "</td>";
 
                 //Display tags in song
                 result += "<td>";
                 var i=0;
-                for (var tag in songList[song].tags) {
-                    result += songList[song].tags[tag];
+                song.tags.forEach(function(tag) {
+                    result += tag;
                     i++;
-                    if (i != songList[song].tags.length) {
+                    if (i != song.tags.length) {
                         result += ", ";
                     }
-                }
+                });
                 result += "</td>";
 
                 //Display chartlist icons
                 result += "<td nowrap>";
-                for (var resultChartList in songList[song].chartList) {
-                    for (var chart in songList[song].chartList[resultChartList]) {
+                song.chartList.forEach(function(resultChartList){
+                    resultChartList.forEach(function (chart) {
                         result += "<div class='levelBox'>";
-                            switch (songList[song].chartList[resultChartList][chart].chartType) {
+                            switch (chart.chartType) {
                                 case "single":
-                                    result += "<img width=48 height=48 src='data/img/level/single/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    result += "<img width=48 height=48 src='data/img/level/single/" + chart.level + ".gif'>";
                                     break;
                                 case "double":
-                                    result += "<img width=48 height=48 src='data/img/level/double/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    result += "<img width=48 height=48 src='data/img/level/double/" + chart.level + ".gif'>";
                                     break;
                                 case "singlePerformance":
-                                    result += "<img width=48 height=48 src='data/img/level/singleperformance/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    result += "<img width=48 height=48 src='data/img/level/singleperformance/" + chart.level + ".gif'>";
                                     break;
                                 case "doublePerformance":
-                                    result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + songList[song].chartList[resultChartList][chart].level + ".gif'>";
+                                    result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + chart.level + ".gif'>";
                                     break;
                                 case "coop":
-                                    result += "<img width=48 height=48 src='data/img/level/coop/" + songList[song].chartList[resultChartList][chart].players + ".gif'>";
+                                    result += "<img width=48 height=48 src='data/img/level/coop/" + chart.players + ".gif'>";
                                     break;
                                 default:
                                     result += "[TODO]";
                             }
-                            if (songList[song].chartList[resultChartList][chart].tags.indexOf("unlock") >= 0) {
+                            if (chart.tags.indexOf("unlock") >= 0) {
                                 result += "<div class='unlockOverlay'></div>";
                             }
                         result += "</div>";
-                    }
-                }
-
+                    });
+                });
                 result += "</td></tr>";
-            }
+            });
             result += "</table>"; 
             return result;
         }
@@ -211,7 +207,9 @@
         <span class="inputField" id="levelText">1 - 28</span>
     <br/>
         <span class="label"></span>
-        <span class="inputField" id="level"></span>
+        <span class="inputField">
+            <input id="level" type="text" class="span2" value="" data-slider-min="1" data-slider-max="28" data-slider-step="1" data-slider-value="[1,28]" data-slider-tooltip="hide"/>
+        </span>
     </p>
     <p>
         <span class="label"></span>
