@@ -8,15 +8,17 @@ https://pugkung.github.io/piutool/
 ## Usage Agreement
 Feel free to use this tool or data provided for any purpose.
 Credit / referral are not required, but will be very appreciated if you do :D
-Pump It Up - Thailand
+
 ## Data Coverage
-The current songlist data is based on Pump It Up Prime2 v2.05.0 (final patch) data. All removed contents will not be included.
-I plan to maintain the songlist after the release of new 2019 vesion, but will not focus on Pro/Infinity songlist data. (feel free to contribute one, though)
+There are two songlist data provided based on following data sources:
+* Pump It Up Prime2 v2.05.0 (final patch)
+* Pump It Up XX v 1.02 (April 2019)
+All removed contents will not be included.
+I plan to maintain the songlist after the release of later vesions, but will not focus on Pro/Infinity songlist data. (feel free to contribute one, though)
 
 ## Data sources
-* Several prime 2/XX songlist videos. (Including JP/SA/PH exclusive songlist)
+* Several prime 2/XX songlist videos on youtube. (Including JP/SA/PH exclusive songlist)
 * Update Contents: https://www.facebook.com/pg/piugame/notes/
-* (crude) songIDs : http://www.piugame.com/piu.prime2/mydata/userFav/customFAV.php
 * List of Shop unlock charts : http://www.piugame.com/piu.prime2/itemshop/stepShop.php
 * List of AM Pass exclusive charts : http://www.piugame.com/piu.prime2/mydata/userMt/customMT.php
 * PRIME2 Banners from Stepmania PIU Indonesia group : https://www.facebook.com/Stepmania-Pump-It-Up-Indonesia-210885099120068/

@@ -1,0 +1,222 @@
+<html>
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.min.css" rel="stylesheet">
+    <style>
+        .label      {display: inline-block; width: 100px;}
+        .inputField {display: inline-block; width: 220px;}
+        .levelBox   {position:relative; display: inline-block; width: 48px; height: 48px;}
+        .unlockOverlay {position: absolute; top:0; left:0; width:100%; height:100%; opacity: 0.4; background-image: url("data/img/level/locked.png"); background-size: 48px;}
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.min.js"></script>
+    <script src="./searchTool.js"></script>
+    <script>
+        var songList;
+        var jsonFile = $.getJSON( "data/songlist_xx.json", function() {
+            songList = jsonFile.responseJSON.songlist;
+        });
+        var levelRange = [1,28];
+
+        $(function() {
+            $("#level").slider({
+                formatter: function(value) {
+                    if(value.length > 1){
+                        levelRange = value;
+                        $("#levelText").text(value[0] + " - " + value[1]);
+                    }
+                    return 'Current value: ' + value;
+                }
+            });
+
+            $("#submit").click(function() {
+                var resultSongList = performSearch();
+                $("#result").html(displaySongList(resultSongList));
+            });
+
+            document.onkeypress = function (e) {
+                if (e.keyCode == 13) {
+                    performSearch();
+                }
+            }
+
+            $("input[name='chartType']").click(function() {
+                if (this.value == "coop") {
+                    $('input[name="chartType"]').not(this).prop('checked', false);
+                    $("#levelSelectorArea").hide();
+                }
+                else {
+                    $('#coopCheckbox').prop('checked', false);
+                    $("#levelSelectorArea").show();
+                }
+            });
+        });
+
+        function performSearch() {
+            var $checked = $("[name='chartType']").filter(":checked");
+                var selectedChartTypes = $checked.map(function() {
+                    return this.value;
+                }).get();
+
+                var result = searchSongName(songList, "");
+                result = searchChart(result, selectedChartTypes, levelRange);
+                result = randomSong(result, $("#songNumber").val());
+                
+                return result;
+        }
+        
+        function randomSong(songList, numberOfSongs) {
+            var randomedList = [];
+            songList = flattenSongCharts(songList);
+            if(numberOfSongs >= songList.length) {
+                // all-applied since cannot random anyway
+                return songList;
+            }
+
+            for (var i=0; i<numberOfSongs; i++) {
+                var randomedSong = songList[Math.floor(Math.random()*songList.length)];
+                if (!randomedList.includes(randomedSong)) {
+                    randomedList.push(randomedSong);
+                }
+                else {
+                    i--;    //re-roll
+                }
+            }
+            return randomedList;
+        }
+
+        function flattenSongCharts(songList) {
+            var flatSongList = [];
+            songList.forEach(function(song) {
+                song.chartList.forEach(function(chart) {
+                    var songItem = Object.assign({},song);
+                    songItem.chartList = [];
+                    songItem.chartList.push(chart);
+                    flatSongList.push(songItem);
+                });
+            });
+            return flatSongList;
+        }
+
+        function displaySongList(songList) {
+            var result = "<table border=1><tr>" +
+                "<th>Song Name</th><th>Banner</th><th>Artist</th>" +
+                "<th>BPM</th><th>Type</th><th>Version</th>" +
+                "<th>Tags</th><th>Chart List</th></tr>"
+            songList.forEach(function(song) {
+                result += "<tr>";
+                result += "<td>" + song.songName + "</td>";
+                result += "<td><img width=120 height=60 src='data/img/songid/" + song.songID + ".jpg'></td>";
+                result += "<td>" + song.artist + "</td>";
+                result += "<td>" + song.bpm + "</td>";
+                result += "<td>" + song.songType + "</td>";
+                result += "<td>" + song.version + "</td>";
+
+                //Display tags in song
+                result += "<td>";
+                var i=0;
+                song.tags.forEach(function(tag) {
+                    result += tag;
+                    i++;
+                    if (i != song.tags.length) {
+                        result += ", ";
+                    }
+                });
+                result += "</td>";
+
+                //Display chartlist icons
+                result += "<td nowrap>";
+                // song.chartList.forEach(function(resultChartList){
+                    song.chartList.forEach(function (chart) {
+                        result += "<div class='levelBox'>";
+                            switch (chart.chartType) {
+                                case "single":
+                                    result += "<img width=48 height=48 src='data/img/level/single/" + chart.level + ".gif'>";
+                                    break;
+                                case "double":
+                                    result += "<img width=48 height=48 src='data/img/level/double/" + chart.level + ".gif'>";
+                                    break;
+                                case "singlePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/singleperformance/" + chart.level + ".gif'>";
+                                    break;
+                                case "doublePerformance":
+                                    result += "<img width=48 height=48 src='data/img/level/doubleperformance/" + chart.level + ".gif'>";
+                                    break;
+                                case "coop":
+                                    result += "<img width=48 height=48 src='data/img/level/coop/" + chart.players + ".gif'>";
+                                    break;
+                                default:
+                                    result += "[TODO]";
+                            }
+                            if (chart.tags.indexOf("unlock") >= 0) {
+                                result += "<div class='unlockOverlay'></div>";
+                            }
+                        result += "</div>";
+                    });
+                // });
+                result += "</td></tr>";
+            });
+            result += "</table>"; 
+            return result;
+        }
+    </script>
+</head>
+<body>
+    <h1>Randomizer tool</h1>
+    <p>
+        <span class="label"># of songs</span>
+        <span class="inputField">
+            <input type="number" id="songNumber" value="1">
+        </span>
+    </p>
+	<p>
+        <span class="label">Chart Type</span>
+        <span class="inputField">
+            <input type="checkbox" name="chartType" value="single">Single
+            <input type="checkbox" name="chartType" value="double">Double
+        <br/>
+            <input type="checkbox" name="chartType" value="singlePerformance">Single Performance
+        <br/>
+            <input type="checkbox" name="chartType" value="doublePerformance">Double Performance
+        <br/>
+            <input type="checkbox" name="chartType" value="coop" id="coopCheckbox">Coop
+        </span>
+    </p>
+    <p>
+            <span class="label">Song Type</span>
+            <span class="inputField">
+                <input type="checkbox" name="" value="" checked disabled> Fullsong
+            <br/>
+                <input type="checkbox" name="" value="" checked disabled> Remix
+            <br/>
+                <input type="checkbox" name="" value="" checked disabled> Shortcut
+            </span>
+    </p>
+    <p>
+        <span class="label">Includes</span>
+        <span class="inputField">
+            <input type="checkbox" name="" value="" checked disabled> K-Pop
+            <input type="checkbox" name="" value="" checked disabled> World
+            <input type="checkbox" name="" value="" checked disabled> J-Music
+            <input type="checkbox" name="" value="" checked disabled> Xross
+            <input type="checkbox" name="" value="" checked disabled> Unlock
+        </span>
+    </p>
+    <p id="levelSelectorArea">
+        <span class="label">Level</span>
+        <span class="inputField" id="levelText">1 - 28</span>
+    <br/>
+        <span class="label"></span>
+        <span class="inputField">
+            <input id="level" type="text" class="span2" value="" data-slider-min="1" data-slider-max="28" data-slider-step="1" data-slider-value="[1,28]" data-slider-tooltip="hide"/>
+        </span>
+    </p>
+    <p>
+        <span class="label"></span>
+        <span class="inputField">
+            <input type="button" id="submit" value="Go!">
+        </span>
+    </p>
+    <div id="result"></div>
+</body>
+</html>
