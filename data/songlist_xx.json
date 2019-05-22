@@ -58,7 +58,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "2nd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -114,7 +114,7 @@
             "bpm"       : 195,
             "songType"  : "arcade",
             "version"   : "2nd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -170,7 +170,7 @@
             "bpm"       : 150,
             "songType"  : "remix",
             "version"   : "2nd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -196,7 +196,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -252,7 +252,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -303,7 +303,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -359,7 +359,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -390,7 +390,7 @@
             "bpm"       : 105,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -416,7 +416,7 @@
             "bpm"       : 99,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -447,7 +447,7 @@
             "bpm"       : 80,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -478,7 +478,7 @@
             "bpm"       : 230,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -519,7 +519,7 @@
             "bpm"       : 135,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -545,7 +545,7 @@
             "bpm"       : 148,
             "songType"  : "arcade",
             "version"   : "3rdSE",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -576,7 +576,7 @@
             "bpm"       : 103,
             "songType"  : "arcade",
             "version"   : "3rdSE",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -612,7 +612,7 @@
             "bpm"       : 92,
             "songType"  : "arcade",
             "version"   : "3rdSE",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -668,7 +668,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "3rdSE",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -734,7 +734,7 @@
             "bpm"       : 190,
             "songType"  : "arcade",
             "version"   : "3rdSE",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -790,7 +790,7 @@
             "bpm"       : 106,
             "songType"  : "arcade",
             "version"   : "PerfectCollection",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -826,7 +826,7 @@
             "bpm"       : 106,
             "songType"  : "arcade",
             "version"   : "PerfectCollection",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -862,7 +862,7 @@
             "bpm"       : 142,
             "songType"  : "arcade",
             "version"   : "PerfectCollection",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -913,7 +913,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "PerfectCollection",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -944,7 +944,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "PerfectCollection",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1056,7 +1056,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Extra",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1117,7 +1117,7 @@
             "bpm"       : 189,
             "songType"  : "arcade",
             "version"   : "Extra",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1173,7 +1173,7 @@
             "bpm"       : 200,
             "songType"  : "remix",
             "version"   : "Extra",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1199,7 +1199,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1250,7 +1250,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1301,7 +1301,7 @@
             "bpm"       : 96,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1337,7 +1337,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1393,7 +1393,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1434,7 +1434,7 @@
             "bpm"       : 124,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1470,7 +1470,7 @@
             "bpm"       : 118,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1526,7 +1526,7 @@
             "bpm"       : 92,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1557,7 +1557,7 @@
             "bpm"       : 124,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1598,7 +1598,7 @@
             "bpm"       : 110,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1629,7 +1629,7 @@
             "bpm"       : 168,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1680,7 +1680,7 @@
             "bpm"       : 210,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1736,7 +1736,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1792,7 +1792,7 @@
             "bpm"       : 148,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1838,7 +1838,7 @@
             "bpm"       : 118,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1874,7 +1874,7 @@
             "bpm"       : 111,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1910,7 +1910,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -1961,7 +1961,7 @@
             "bpm"       : 122,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2017,7 +2017,7 @@
             "bpm"       : 184,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2073,7 +2073,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Rebirth",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2124,7 +2124,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Premiere3",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2185,7 +2185,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Premiere3",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2231,7 +2231,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Premiere3",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2262,7 +2262,7 @@
             "bpm"       : [140,202],
             "songType"  : "arcade",
             "version"   : "Premiere3",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2323,7 +2323,7 @@
             "bpm"       : [100,107],
             "songType"  : "arcade",
             "version"   : "Prex3",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2379,7 +2379,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2440,7 +2440,7 @@
             "bpm"       : 129,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2481,7 +2481,7 @@
             "bpm"       : 186,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2522,7 +2522,7 @@
             "bpm"       : 158,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2563,7 +2563,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2609,7 +2609,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2655,7 +2655,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Exceed",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2691,7 +2691,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2737,7 +2737,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2788,7 +2788,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2839,7 +2839,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2900,7 +2900,7 @@
             "bpm"       : [184,202],
             "songType"  : "remix",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2931,7 +2931,7 @@
             "bpm"       : [162,170],
             "songType"  : "remix",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2962,7 +2962,7 @@
             "bpm"       : 99,
             "songType"  : "remix",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -2993,7 +2993,7 @@
             "bpm"       : 160,
             "songType"  : "fullsong",
             "version"   : "Exceed2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3024,7 +3024,7 @@
             "bpm"       : [120,190],
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3075,7 +3075,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3126,7 +3126,7 @@
             "bpm"       : 195,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3182,7 +3182,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3228,7 +3228,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3284,7 +3284,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3325,7 +3325,7 @@
             "bpm"       : [140,169],
             "songType"  : "remix",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3356,7 +3356,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3382,7 +3382,7 @@
             "bpm"       : 122,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3453,7 +3453,7 @@
             "bpm"       : 135,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3509,7 +3509,7 @@
             "bpm"       : 210,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3565,7 +3565,7 @@
             "bpm"       : 96,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3606,7 +3606,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3642,7 +3642,7 @@
             "bpm"       : 104,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3688,7 +3688,7 @@
             "bpm"       : 168,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3734,7 +3734,7 @@
             "bpm"       : 92,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3770,7 +3770,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3826,7 +3826,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3877,7 +3877,7 @@
             "bpm"       : 195,
             "songType"  : "remix",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3908,7 +3908,7 @@
             "bpm"       : 210,
             "songType"  : "remix",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3939,7 +3939,7 @@
             "bpm"       : [100,162],
             "songType"  : "fullsong",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3960,7 +3960,7 @@
             "bpm"       : [120,190],
             "songType"  : "fullsong",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -3981,7 +3981,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4017,7 +4017,7 @@
             "bpm"       : 124,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4058,7 +4058,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4109,7 +4109,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4145,7 +4145,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4181,7 +4181,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4242,7 +4242,7 @@
             "bpm"       : 153,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4303,7 +4303,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4349,7 +4349,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4400,7 +4400,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4436,7 +4436,7 @@
             "bpm"       : 120,
             "songType"  : "remix",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4457,7 +4457,7 @@
             "bpm"       : 170,
             "songType"  : "remix",
             "version"   : "NX2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4488,7 +4488,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4549,7 +4549,7 @@
             "bpm"       : 185,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4595,7 +4595,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4631,7 +4631,7 @@
             "bpm"       : 134,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4672,7 +4672,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4713,7 +4713,7 @@
             "bpm"       : 156,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4759,7 +4759,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4800,7 +4800,7 @@
             "bpm"       : 104,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4851,7 +4851,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4902,7 +4902,7 @@
             "bpm"       : 134,
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4928,7 +4928,7 @@
             "bpm"       : 180,
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4959,7 +4959,7 @@
             "bpm"       : 156,
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -4985,7 +4985,7 @@
             "bpm"       : [150,162],
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5011,7 +5011,7 @@
             "bpm"       : 120,
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5037,7 +5037,7 @@
             "bpm"       : 128,
             "songType"  : "fullsong",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5058,7 +5058,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5104,7 +5104,7 @@
             "bpm"       : 190,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5160,7 +5160,7 @@
             "bpm"       : 158,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5231,7 +5231,7 @@
             "bpm"       : 92,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5272,7 +5272,7 @@
             "bpm"       : 127,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5328,7 +5328,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5384,7 +5384,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5425,7 +5425,7 @@
             "bpm"       : 96,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5456,7 +5456,7 @@
             "bpm"       : 152,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5507,7 +5507,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5548,7 +5548,7 @@
             "bpm"       : 132,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5594,7 +5594,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5640,7 +5640,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5686,7 +5686,7 @@
             "bpm"       : 164,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5732,7 +5732,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5793,7 +5793,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5829,7 +5829,7 @@
             "bpm"       : 116,
             "songType"  : "arcade",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5900,7 +5900,7 @@
             "bpm"       : 164,
             "songType"  : "remix",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5931,7 +5931,7 @@
             "bpm"       : [145,158],
             "songType"  : "remix",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5952,7 +5952,7 @@
             "bpm"       : 180,
             "songType"  : "remix",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5973,7 +5973,7 @@
             "bpm"       : 122,
             "songType"  : "remix",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -5989,7 +5989,7 @@
             "bpm"       : 150,
             "songType"  : "remix",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6010,7 +6010,7 @@
             "bpm"       : 130,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6031,7 +6031,7 @@
             "bpm"       : 130,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6052,7 +6052,7 @@
             "bpm"       : 170,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6073,7 +6073,7 @@
             "bpm"       : 140,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6099,7 +6099,7 @@
             "bpm"       : 162,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6125,7 +6125,7 @@
             "bpm"       : 195,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6156,7 +6156,7 @@
             "bpm"       : 200,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6177,7 +6177,7 @@
             "bpm"       : 168,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6213,7 +6213,7 @@
             "bpm"       : 136,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6234,7 +6234,7 @@
             "bpm"       : 180,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6260,7 +6260,7 @@
             "bpm"       : 195,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6286,7 +6286,7 @@
             "bpm"       : 178,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6307,7 +6307,7 @@
             "bpm"       : 133,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6328,7 +6328,7 @@
             "bpm"       : 156,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6354,7 +6354,7 @@
             "bpm"       : 210,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6385,7 +6385,7 @@
             "bpm"       : 162,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6411,7 +6411,7 @@
             "bpm"       : 150,
             "songType"  : "shortcut",
             "version"   : "Fiesta",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6442,7 +6442,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6488,7 +6488,7 @@
             "bpm"       : 185,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6524,7 +6524,7 @@
             "bpm"       : 203,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6580,7 +6580,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6626,7 +6626,7 @@
             "bpm"       : 135,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6682,7 +6682,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6743,7 +6743,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6799,7 +6799,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -6870,7 +6870,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7094,7 +7094,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7145,7 +7145,7 @@
             "bpm"       : [130,240],
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7247,7 +7247,7 @@
             "bpm"       : 135,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7415,7 +7415,7 @@
             "bpm"       : 222,
             "songType"  : "remix",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7451,7 +7451,7 @@
             "bpm"       : 128,
             "songType"  : "remix",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7472,7 +7472,7 @@
             "bpm"       : 180,
             "songType"  : "fullsong",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7498,7 +7498,7 @@
             "bpm"       : 156,
             "songType"  : "shortcut",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7519,7 +7519,7 @@
             "bpm"       : 203,
             "songType"  : "shortcut",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7540,7 +7540,7 @@
             "bpm"       : 170,
             "songType"  : "shortcut",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7561,7 +7561,7 @@
             "bpm"       : 155,
             "songType"  : "shortcut",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7603,7 +7603,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7649,7 +7649,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7675,7 +7675,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -7706,7 +7706,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "FiestaEX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8264,7 +8264,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8325,7 +8325,7 @@
             "bpm"       : 220,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8381,7 +8381,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8442,7 +8442,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8488,7 +8488,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8534,7 +8534,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8585,7 +8585,7 @@
             "bpm"       : 183,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8626,7 +8626,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8672,7 +8672,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8723,7 +8723,7 @@
             "bpm"       : [40,190],
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8779,7 +8779,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8825,7 +8825,7 @@
             "bpm"       : 246,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8871,7 +8871,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8922,7 +8922,7 @@
             "bpm"       : 90,
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -8968,7 +8968,7 @@
             "bpm"       : [120,140],
             "songType"  : "arcade",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9014,7 +9014,7 @@
             "bpm"       : 162,
             "songType"  : "remix",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9035,7 +9035,7 @@
             "bpm"       : 200,
             "songType"  : "remix",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9056,7 +9056,7 @@
             "bpm"       : 160,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9077,7 +9077,7 @@
             "bpm"       : 175,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9098,7 +9098,7 @@
             "bpm"       : 220,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9119,7 +9119,7 @@
             "bpm"       : 200,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9140,7 +9140,7 @@
             "bpm"       : 145,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9161,7 +9161,7 @@
             "bpm"       : 128,
             "songType"  : "shortcut",
             "version"   : "Fiesta2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9182,7 +9182,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9238,7 +9238,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9294,7 +9294,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9345,7 +9345,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9386,7 +9386,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9447,7 +9447,7 @@
             "bpm"       : 167,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9493,7 +9493,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9549,7 +9549,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9620,7 +9620,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9666,7 +9666,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9722,7 +9722,7 @@
             "bpm"       : 128,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9773,7 +9773,7 @@
             "bpm"       : 158,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9824,7 +9824,7 @@
             "bpm"       : 136,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9880,7 +9880,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9921,7 +9921,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -9967,7 +9967,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10008,7 +10008,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10059,7 +10059,7 @@
             "bpm"       : 130,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10105,7 +10105,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10176,7 +10176,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10232,7 +10232,7 @@
             "bpm"       : 172,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10293,7 +10293,7 @@
             "bpm"       : 192,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10344,7 +10344,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10385,7 +10385,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10436,7 +10436,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10512,7 +10512,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10563,7 +10563,7 @@
             "bpm"       : 192,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10619,7 +10619,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10726,7 +10726,7 @@
             "bpm"       : 113,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10782,7 +10782,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10828,7 +10828,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10884,7 +10884,7 @@
             "bpm"       : 140,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10925,7 +10925,7 @@
             "bpm"       : 137,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -10971,7 +10971,7 @@
             "bpm"       : 198,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -11649,7 +11649,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -11710,7 +11710,7 @@
             "bpm"       : 158,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13001,7 +13001,7 @@
             "bpm"       : 176,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13042,7 +13042,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13093,7 +13093,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13144,7 +13144,7 @@
             "bpm"       : 170,
             "songType"  : "remix",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13170,7 +13170,7 @@
             "bpm"       : 175,
             "songType"  : "remix",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13196,7 +13196,7 @@
             "bpm"       : 220,
             "songType"  : "remix",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13232,7 +13232,7 @@
             "bpm"       : 145,
             "songType"  : "fullsong",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13366,7 +13366,7 @@
             "bpm"       : 145,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13387,7 +13387,7 @@
             "bpm"       : 200,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13423,7 +13423,7 @@
             "bpm"       : 167,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13465,7 +13465,7 @@
             "bpm"       : 175,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13491,7 +13491,7 @@
             "bpm"       : 145,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13512,7 +13512,7 @@
             "bpm"       : 128,
             "songType"  : "shortcut",
             "version"   : "Prime",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13559,7 +13559,7 @@
             "bpm"       : 120,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13620,7 +13620,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13671,7 +13671,7 @@
             "bpm"       : 152,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13727,7 +13727,7 @@
             "bpm"       : 194,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13783,7 +13783,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13829,7 +13829,7 @@
             "bpm"       : 157,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -13900,7 +13900,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -14251,7 +14251,7 @@
             "bpm"       : 175,
             "songType"  : "remix",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -14272,7 +14272,7 @@
             "bpm"       : 157,
             "songType"  : "shortcut",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -14441,7 +14441,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -14788,7 +14788,7 @@
             "bpm"       : 152,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -14839,7 +14839,7 @@
             "bpm"       : 176,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15180,7 +15180,7 @@
             "bpm"       : 145,
             "songType"  : "shortcut",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15211,7 +15211,7 @@
             "bpm"       : 220,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15313,7 +15313,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15364,7 +15364,7 @@
             "bpm"       : 162,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15456,7 +15456,7 @@
             "bpm"       : 200,
             "songType"  : "remix",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15543,7 +15543,7 @@
             "bpm"       : 220,
             "songType"  : "shortcut",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -15998,7 +15998,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16044,7 +16044,7 @@
             "bpm"       : 170,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16095,7 +16095,7 @@
             "bpm"       : 141,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16146,7 +16146,7 @@
             "bpm"       : 147,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16391,7 +16391,7 @@
             "bpm"       : 170,
             "songType"  : "shortcut",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16412,7 +16412,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16596,7 +16596,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16642,7 +16642,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16698,7 +16698,7 @@
             "bpm"       : 153,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16749,7 +16749,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16800,7 +16800,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16841,7 +16841,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16938,7 +16938,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -16989,7 +16989,7 @@
             "bpm"       : 125,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17183,7 +17183,7 @@
             "bpm"       : 175,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17234,7 +17234,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17367,7 +17367,7 @@
             "bpm"       : 220,
             "songType"  : "arcade",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17408,7 +17408,7 @@
             "bpm"       : 220,
             "songType"  : "remix",
             "version"   : "Prime2",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17429,7 +17429,7 @@
             "bpm"       : 124,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17460,7 +17460,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "3rd",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17481,7 +17481,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "Extra",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17512,7 +17512,7 @@
             "bpm"       : 96,
             "songType"  : "arcade",
             "version"   : "Zero",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17543,7 +17543,7 @@
             "bpm"       : [92,180],
             "songType"  : "remix",
             "version"   : "NX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17574,7 +17574,7 @@
             "bpm"       : 104,
             "songType"  : "remix",
             "version"   : "NXA",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17641,7 +17641,7 @@
             "bpm"       : 165,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17712,7 +17712,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17758,7 +17758,7 @@
             "bpm"       : 156,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17819,7 +17819,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17880,7 +17880,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17931,7 +17931,7 @@
             "bpm"       : 150,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -17987,7 +17987,7 @@
             "bpm"       : 166,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -18033,7 +18033,7 @@
             "bpm"       : 173,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -18069,7 +18069,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -18125,7 +18125,7 @@
             "bpm"       : 174,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -18181,7 +18181,7 @@
             "bpm"       : 190,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19140,7 +19140,7 @@
             "bpm"       : 200,
             "songType"  : "shortcut",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19161,7 +19161,7 @@
             "bpm"       : 165,
             "songType"  : "shortcut",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19355,7 +19355,7 @@
             "bpm"       : 172,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19524,7 +19524,7 @@
             "bpm"       : 175,
             "songType"  : "shortcut",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19738,7 +19738,7 @@
             "bpm"       : 220,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19825,7 +19825,7 @@
             "bpm"       : 140,
             "songType"  : "remix",
             "version"   : "XX",
-            "tags"      : [],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
