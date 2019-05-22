@@ -19093,7 +19093,7 @@
             "bpm"       : 174,
             "songType"  : "remix",
             "version"   : "XX",
-            "tags"      : ["xross", "ez2ac"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -19854,7 +19854,7 @@
             "songName"  : "Allegro Con Fuoco - FULL SONG -",
             "artist"    : "DM Ashura",
             "bpm"       : 156,
-            "songType"  : "full",
+            "songType"  : "fullsong",
             "version"   : "XX",
             "tags"      : ["world"],
             "chartList" : [

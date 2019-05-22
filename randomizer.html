@@ -53,16 +53,26 @@
         });
 
         function performSearch() {
-            var $checked = $("[name='chartType']").filter(":checked");
-                var selectedChartTypes = $checked.map(function() {
-                    return this.value;
-                }).get();
+            var $checkedChartTypes = $("[name='chartType']").filter(":checked");
+            var selectedChartTypes = $checkedChartTypes.map(function() {
+                return this.value;
+            }).get();
+            var $checkedSongTypes = $("[name='songType']").filter(":checked");
+            var selectedSongTypes = $checkedSongTypes.map(function() {
+                return this.value;
+            }).get();
+            var $checkedSongTags = $("[name='songTag']").filter(":checked");
+            var selectedSongTags = $checkedSongTags.map(function() {
+                return this.value;
+            }).get();
 
-                var result = searchSongName(songList, "");
-                result = searchChart(result, selectedChartTypes, levelRange);
-                result = randomSong(result, $("#songNumber").val());
-                
-                return result;
+            var result = searchSongName(songList, "");
+            result = filterSongType(result, selectedSongTypes);
+            result = filterSongTag(result, selectedSongTags);
+            result = searchChart(result, selectedChartTypes, levelRange);
+            result = randomSong(result, $("#songNumber").val());
+            
+            return result;
         }
         
         function randomSong(songList, numberOfSongs) {
@@ -183,22 +193,27 @@
         </span>
     </p>
     <p>
-            <span class="label">Song Type</span>
-            <span class="inputField">
-                <input type="checkbox" name="" value="" checked disabled> Fullsong
-            <br/>
-                <input type="checkbox" name="" value="" checked disabled> Remix
-            <br/>
-                <input type="checkbox" name="" value="" checked disabled> Shortcut
-            </span>
+        <span class="label">Song Type</span>
+        <span class="inputField">
+            <input type="checkbox" name="songType" value="arcade" checked> Arcade
+        <br/>
+            <input type="checkbox" name="songType" value="fullsong"> Fullsong
+        <br/>
+            <input type="checkbox" name="songType" value="remix"> Remix
+        <br/>
+            <input type="checkbox" name="songType" value="shortcut"> Shortcut
+        </span>
     </p>
     <p>
         <span class="label">Includes</span>
         <span class="inputField">
-            <input type="checkbox" name="" value="" checked disabled> K-Pop
-            <input type="checkbox" name="" value="" checked disabled> World
-            <input type="checkbox" name="" value="" checked disabled> J-Music
-            <input type="checkbox" name="" value="" checked disabled> Xross
+            <input type="checkbox" name="songTag" value="original" checked> Original
+            <input type="checkbox" name="songTag" value="kpop" checked> K-Pop
+        </br>
+            <input type="checkbox" name="songTag" value="world" checked> World
+            <input type="checkbox" name="songTag" value="jmusic" checked> J-Music
+        </br>
+            <input type="checkbox" name="songTag" value="xross" checked> Xross
             <input type="checkbox" name="" value="" checked disabled> Unlock
         </span>
     </p>

@@ -3,6 +3,23 @@ function searchSongName(arr, part) {
     return arr.filter(a=>a.songName.toLowerCase().indexOf(part) !== -1);
 }
 
+function filterSongType(arr, songTypes) {
+    return arr.filter(a=>songTypes.indexOf(a.songType) >= 0);
+}
+
+function filterSongTag(arr, tags) {
+    // return arr.filter(a=>tags.includes(a.tags));
+    return arr.filter(function(song) {
+        var matched = false;
+        song.tags.forEach(songTag => {
+            if (tags.indexOf(songTag) >= 0 ) {
+                matched = true;
+            }
+        });
+        return matched;
+    });
+}
+
 function searchChart(arr, types, level) {
     if (arr.length == 0) {
         return [];
