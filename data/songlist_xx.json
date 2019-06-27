@@ -4387,6 +4387,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
                     "chartType" : "singlePerformance",
                     "level"     : 1,
                     "tags"      : []
@@ -7768,6 +7773,11 @@
                     "chartType" : "double",
                     "level"     : 17,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
                 },
                 {
                     "chartType" : "double",
@@ -11694,6 +11704,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 23,
                     "tags"      : []
                 },
                 {
