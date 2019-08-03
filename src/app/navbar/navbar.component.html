@@ -1,0 +1,21 @@
+<mat-toolbar>
+    <button mat-icon-button [matMenuTriggerFor]="menu">
+        <mat-icon>more_vert</mat-icon>
+    </button>
+    <span class="title">PIU Tool</span>
+</mat-toolbar>
+
+<mat-menu #menu="matMenu" xPosition="after" [overlapTrigger]="false">
+    <button mat-menu-item [routerLink]="['/home']">
+        <mat-icon>home</mat-icon>
+        <span>Home</span>
+    </button>
+    <button mat-menu-item [routerLink]="['/song-browser']">
+        <mat-icon>pageview</mat-icon>
+        <span>Song Browser</span>
+    </button>
+    <button mat-menu-item [routerLink]="['/randomizer']">
+        <mat-icon>shuffle</mat-icon>
+        <span>Randomizer</span>
+    </button>
+</mat-menu>
