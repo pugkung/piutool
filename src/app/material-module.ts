@@ -4,6 +4,7 @@ import {
     MatFormFieldModule,
     MatInputModule,
     MatCheckboxModule,
+    MatExpansionModule,
 
     MatCardModule,
     MatTableModule,
@@ -18,6 +19,7 @@ import {
         MatFormFieldModule,
         MatInputModule,
         MatCheckboxModule,
+        MatExpansionModule,
 
         MatCardModule,
         MatTableModule,
@@ -32,6 +34,7 @@ import {
         MatFormFieldModule,
         MatInputModule,
         MatCheckboxModule,
+        MatExpansionModule,
 
         MatCardModule,
         MatTableModule,

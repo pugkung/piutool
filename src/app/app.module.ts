@@ -1,5 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+
+import { NouisliderModule } from 'ng2-nouislider';
 
 import { MaterialModule } from './material-module';
 import { AppRoutingModule } from './app-routing.module';
@@ -18,9 +21,11 @@ import { HomeComponent } from './home/home.component';
     HomeComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule,
     MaterialModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NouisliderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
