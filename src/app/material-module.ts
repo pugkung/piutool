@@ -8,6 +8,7 @@ import {
 
     MatCardModule,
     MatTableModule,
+    MatPaginatorModule,
     MatToolbarModule,
     MatMenuModule,
     MatIconModule,
@@ -23,6 +24,7 @@ import {
 
         MatCardModule,
         MatTableModule,
+        MatPaginatorModule,
         MatToolbarModule,
         MatMenuModule,
         MatButtonModule,
@@ -38,6 +40,7 @@ import {
 
         MatCardModule,
         MatTableModule,
+        MatPaginatorModule,
         MatToolbarModule,
         MatMenuModule,
         MatButtonModule,

@@ -1,51 +1,7 @@
-<mat-accordion>
-    <mat-expansion-panel>
-        <mat-expansion-panel-header>
-            <mat-panel-title>
-                Filters...
-            </mat-panel-title>
-        </mat-expansion-panel-header>
+<search-bar></search-bar>
 
-        <mat-form-field>
-            <input matInput placeholder="Song Name">
-        </mat-form-field>
-
-        <button mat-button>Search</button>
-
-        <fieldset>
-            <legend>Chart Types</legend>
-            <mat-checkbox [(ngModel)]="filters.single">Single</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.double">Double</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.singlePerformance">Single Performance</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.doublePerformance">Double Performance</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.coop">CO-OP</mat-checkbox>
-        </fieldset>
-
-        <fieldset>
-            <legend>Song Types</legend>
-            <mat-checkbox [(ngModel)]="filters.arcade">Arcade</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.fullsong">Fullsong</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.remix">Remix</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.shortcut">Shortcut</mat-checkbox>
-        </fieldset>
-
-        <fieldset>
-            <legend>Tags</legend>
-            <mat-checkbox [(ngModel)]="filters.original">Original</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.kpop">K-Pop</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.world">World</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.jmusic">J-Music</mat-checkbox>
-            <mat-checkbox [(ngModel)]="filters.xross">Xross</mat-checkbox>
-            <mat-checkbox disabled [(ngModel)]="filters.unlock">Unlock</mat-checkbox>
-        </fieldset>
-        <fieldset>
-            <legend>Levels</legend>
-            <span>{{levels[0]}}</span> - <span>{{levels[1]}}</span>
-            <nouislider [connect]="true" [min]="1" [max]="28" [step]="1" [(ngModel)]="levels"></nouislider>
-        </fieldset>
-    </mat-expansion-panel>
-</mat-accordion>
-
+<mat-paginator [length]="length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="pageEvent = $event">
+</mat-paginator>
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
     <ng-container matColumnDef="songName">
         <th mat-header-cell *matHeaderCellDef> Song Name </th>

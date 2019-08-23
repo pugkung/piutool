@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
-import { SongFilters } from '../song-filter';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatTableDataSource } from '@angular/material/table';
 import { SongItem, StepChart } from '../song-item';
 
 import dataFile from '../../assets/data/songlist_xx.json';
@@ -13,9 +14,6 @@ export class SongBrowserComponent implements OnInit {
 
   isLoadingData: boolean;
   formattedSonglist: SongItem[] = [];
-  filters: SongFilters;
-  levels = [1, 28];
-
   displayedColumns: string[] = [
     'songName',
     'banner',
@@ -26,7 +24,12 @@ export class SongBrowserComponent implements OnInit {
     'tags',
     'chartList'
   ];
-  dataSource = this.formattedSonglist;
+
+  length = 100;
+  pageSize = 25;
+  pageSizeOptions: number[] = [25, 50, 100];
+  dataSource = new MatTableDataSource<SongItem>(this.formattedSonglist);
+  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
 
   constructor() {
     
@@ -34,9 +37,9 @@ export class SongBrowserComponent implements OnInit {
 
   ngOnInit() {
     this.isLoadingData = true;
-    this.filters = new SongFilters();
     this.loadSonglistData();
     this.isLoadingData = false;
+    this.dataSource.paginator = this.paginator;
   }
 
   loadSonglistData() {
