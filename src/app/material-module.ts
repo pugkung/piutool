@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { 
+import {
     MatFormFieldModule,
     MatInputModule,
     MatCheckboxModule,

@@ -1,5 +1,8 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { ReactiveFormsModule } from '@angular/forms';
+import { NouisliderModule } from 'ng2-nouislider';
 
+import { MaterialModule } from '../../material-module';
 import { SearchBarComponent } from './search-bar.component';
 
 describe('SearchBarComponent', () => {
@@ -8,6 +11,7 @@ describe('SearchBarComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
+      imports: [ MaterialModule, ReactiveFormsModule, NouisliderModule ],
       declarations: [ SearchBarComponent ]
     })
     .compileComponents();

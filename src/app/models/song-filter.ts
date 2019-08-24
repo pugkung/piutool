@@ -11,7 +11,7 @@ export class SongFilters {
     fullsong: boolean;
     remix: boolean;
     shortcut: boolean;
-  
+
     // song tags
     original: boolean;
     kpop: boolean;

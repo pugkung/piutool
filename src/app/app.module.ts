@@ -7,11 +7,11 @@ import { NouisliderModule } from 'ng2-nouislider';
 import { MaterialModule } from './material-module';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { RandomizerComponent } from './randomizer/randomizer.component';
-import { SongBrowserComponent } from './song-browser/song-browser.component';
-import { NavbarComponent } from './navbar/navbar.component';
-import { HomeComponent } from './home/home.component';
-import { SearchBarComponent } from './search-bar/search-bar.component';
+import { RandomizerComponent } from './components/randomizer/randomizer.component';
+import { SongBrowserComponent } from './components/song-browser/song-browser.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { HomeComponent } from './components/home/home.component';
+import { SearchBarComponent } from './components/search-bar/search-bar.component';
 
 @NgModule({
   declarations: [

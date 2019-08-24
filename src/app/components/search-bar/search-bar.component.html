@@ -15,7 +15,7 @@
             <fieldset>
                 <legend>Chart Types</legend>
                 <label formArrayName="chartTypes" *ngFor="let name of searchForm.controls.chartTypes.controls; let i = index">
-                    <mat-checkbox [formControlName]="i" [(ngModel)]="chartTypes[i].checked" [disabled]="chartTypes[i].disabled">
+                    <mat-checkbox [formControlName]="i">
                     {{chartTypes[i].name}}</mat-checkbox>
                 </label>
             </fieldset>
@@ -23,7 +23,7 @@
             <fieldset>
                 <legend>Song Types</legend>
                 <label formArrayName="songTypes" *ngFor="let name of searchForm.controls.songTypes.controls; let i = index">
-                    <mat-checkbox [formControlName]="i" [(ngModel)]="songTypes[i].checked" [disabled]="songTypes[i].disabled">
+                    <mat-checkbox [formControlName]="i">
                     {{songTypes[i].name}}</mat-checkbox>
                 </label>
             </fieldset>
@@ -31,7 +31,7 @@
             <fieldset>
                 <legend>Tags</legend>
                 <label formArrayName="songTags" *ngFor="let name of searchForm.controls.songTags.controls; let i = index">
-                    <mat-checkbox [formControlName]="i" [(ngModel)]="songTags[i].checked" [disabled]="songTags[i].disabled">
+                    <mat-checkbox [formControlName]="i">
                     {{songTags[i].name}}</mat-checkbox>
                 </label>
             </fieldset>

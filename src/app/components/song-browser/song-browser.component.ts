@@ -1,9 +1,9 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
-import { SongItem, StepChart } from '../song-item';
+import { SongItem, StepChart } from '../../models/song-item';
 
-import dataFile from '../../assets/data/songlist_xx.json';
+import dataFile from '../../../assets/data/songlist_xx.json';
 
 @Component({
   selector: 'song-browser',

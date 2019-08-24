@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'randomizer',
+  selector: 'app-randomizer',
   templateUrl: './randomizer.component.html',
   styleUrls: ['./randomizer.component.css']
 })

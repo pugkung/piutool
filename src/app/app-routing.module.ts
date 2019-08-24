@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { HomeComponent } from './home/home.component';
-import { SongBrowserComponent } from './song-browser/song-browser.component';
-import { RandomizerComponent } from './randomizer/randomizer.component';
+import { HomeComponent } from './components/home/home.component';
+import { SongBrowserComponent } from './components/song-browser/song-browser.component';
+import { RandomizerComponent } from './components/randomizer/randomizer.component';
 
-const routes: Routes = [
+export const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'song-browser', component: SongBrowserComponent },
   { path: 'randomizer', component: RandomizerComponent },
