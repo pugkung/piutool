@@ -44,14 +44,21 @@
         <th mat-header-cell *matHeaderCellDef> Charts List </th>
         <td mat-cell *matCellDef="let song">
             <span *ngFor="let chart of song.chartList">
-                <img *ngIf="chart.chartType != 'coop' else coopChart" src="../../assets/data/img/level/{{chart.chartType | lowercase}}/{{chart.level}}.gif" width="48" width="48">
+                <img *ngIf="chart.chartType != 'coop' else coopChart" src="../../assets/data/img/level/{{chart.chartType | lowercase}}/{{chart.level}}.gif" [className]="useMobileUI? 'levelOrb-75' : 'levelOrb'">
                 <ng-template #coopChart>
-                    <img src="../../assets/data/img/level/{{chart.chartType}}/{{chart.players}}.gif" width="48" width="48">
+                    <img src="../../assets/data/img/level/{{chart.chartType}}/{{chart.players}}.gif" [className]="useMobileUI? 'levelOrb-75' : 'levelOrb'">
                 </ng-template>
             </span>
         </td>
     </ng-container>
 
-    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    <ng-container *ngIf="useMobileUI;else useDesktopUI">
+        <tr mat-header-row *matHeaderRowDef="displayedColumnsMobile"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumnsMobile;"></tr>
+    </ng-container>
+
+    <ng-template #useDesktopUI>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </ng-template>
 </table>
