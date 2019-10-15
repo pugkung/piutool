@@ -1,4 +1,8 @@
 export class SongFilters {
+    songName: string;
+    minLevel: number;
+    maxLevel: number;
+
     // chart types
     single: boolean;
     double: boolean;
@@ -21,6 +25,10 @@ export class SongFilters {
     unlock: boolean;
 
     constructor() {
+        this.songName = '';
+        this.minLevel = 1;
+        this.maxLevel = 28;
+
         this.single = true;
         this.double = true;
         this.singlePerformance = true;
