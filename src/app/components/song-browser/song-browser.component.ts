@@ -2,6 +2,7 @@ import { Component, OnInit, ViewChild, HostListener } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
 import { SongItem, StepChart } from '../../models/song-item';
+import { SearchService } from '../../services/search.service';
 
 import dataFile from '../../../assets/data/songlist_xx.json';
 
@@ -41,7 +42,7 @@ export class SongBrowserComponent implements OnInit {
   dataSource = new MatTableDataSource<SongItem>(this.formattedSonglist);
   @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
 
-  constructor() {
+  constructor(searchService: SearchService) {
   }
 
   ngOnInit() {
@@ -54,7 +55,7 @@ export class SongBrowserComponent implements OnInit {
   }
 
   loadSonglistData() {
-    dataFile.songlist.forEach(function (songData) {
+    dataFile.songlist.forEach(function(songData) {
       const songItem = new SongItem();
       songItem.id = songData.songID;
       songItem.songName = songData.songName;
