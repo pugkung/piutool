@@ -66,26 +66,38 @@ export class SearchBarComponent implements OnInit {
     const newSearchFilter = new SongFilters();
 
     newSearchFilter.songName = formData.value.songName;
-    newSearchFilter.minLevel = formData.value.levels[0];
-    newSearchFilter.maxLevel = formData.value.levels[1];
+    newSearchFilter.levels = formData.value.levels;
 
-    newSearchFilter.single = formData.value.chartTypes.find(item => item.value === 'single') ? true : false;
-    newSearchFilter.double = formData.value.chartTypes.find(item => item.value === 'double') ? true : false;
-    newSearchFilter.singlePerformance = formData.value.chartTypes.find(item => item.value === 'singlePerformance') ? true : false;
-    newSearchFilter.doublePerformance = formData.value.chartTypes.find(item => item.value === 'doublePerformance') ? true : false;
-    newSearchFilter.coop = formData.value.chartTypes.find(item => item.value === 'coop') ? true : false;
+    let index = 0;
+    formData.value.chartTypes.forEach( (chartType) => {
 
-    newSearchFilter.arcade = formData.value.songTypes.find(item => item.value === 'arcade') ? true : false;
-    newSearchFilter.fullsong = formData.value.songTypes.find(item => item.value === 'fullsong') ? true : false;
-    newSearchFilter.remix = formData.value.songTypes.find(item => item.value === 'remix') ? true : false;
-    newSearchFilter.shortcut = formData.value.songTypes.find(item => item.value === 'shortcut') ? true : false;
+      if (chartType.value) {
+        newSearchFilter.chartTypes.push(chartType.value);
+      } else if (chartType) {
+        newSearchFilter.chartTypes.push(this.chartTypes[index].value);
+      }
+      index++;
+    });
 
-    newSearchFilter.original = formData.value.songTags.find(item => item.value === 'original') ? true : false;
-    newSearchFilter.kpop = formData.value.songTags.find(item => item.value === 'kpop') ? true : false;
-    newSearchFilter.world = formData.value.songTags.find(item => item.value === 'world') ? true : false;
-    newSearchFilter.jmusic = formData.value.songTags.find(item => item.value === 'jmusic') ? true : false;
-    newSearchFilter.xross = formData.value.songTags.find(item => item.value === 'xross') ? true : false;
-    newSearchFilter.unlock = formData.value.songTags.find(item => item.value === 'unlock') ? true : false;
+    index = 0;
+    formData.value.songTypes.forEach( (songType) => {
+      if (songType.value) {
+        newSearchFilter.songTypes.push(songType.value);
+      } else if (songType) {
+        newSearchFilter.songTypes.push(this.songTypes[index].value);
+      }
+      index++;
+    });
+
+    index = 0;
+    formData.value.songTags.forEach( (songTag) => {
+      if (songTag.value) {
+        newSearchFilter.songTags.push(songTag.value);
+      } else if (songTag) {
+        newSearchFilter.songTags.push(this.songTags[index].value);
+      }
+      index++;
+    });
 
     return newSearchFilter;
   }

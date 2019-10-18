@@ -3,6 +3,7 @@ import { MatPaginator } from '@angular/material/paginator';
 import { MatTableDataSource } from '@angular/material/table';
 import { SongItem, StepChart } from '../../models/song-item';
 import { SearchService } from '../../services/search.service';
+import { SongFilters } from '../../models/song-filter';
 
 import dataFile from '../../../assets/data/songlist_xx.json';
 
@@ -17,6 +18,7 @@ export class SongBrowserComponent implements OnInit {
   useMobileUI: boolean;
 
   isLoadingData: boolean;
+  fullSongList: SongItem[] = [];
   formattedSonglist: SongItem[] = [];
   displayedColumns: string[] = [
     'songName',
@@ -39,23 +41,31 @@ export class SongBrowserComponent implements OnInit {
   length = 100;
   pageSize = 25;
   pageSizeOptions: number[] = [25, 50, 100];
-  dataSource = new MatTableDataSource<SongItem>(this.formattedSonglist);
-  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
+  dataSource = new MatTableDataSource<SongItem>();
+  @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
 
-  constructor(searchService: SearchService) {
+  constructor(public searchService: SearchService) {
   }
 
   ngOnInit() {
     this.isLoadingData = true;
     this.loadSonglistData();
+    this.formattedSonglist = this.fullSongList;
+    this.reloadSongList();
     this.isLoadingData = false;
-    this.dataSource.paginator = this.paginator;
 
     this.useMobileUI = (window.innerWidth < this.MOBILE_WIDTH_TRESHOLD) ? true : false;
+    this.searchService.searchSubject.subscribe((searchValue: SongFilters) => {
+      this.formattedSonglist = this.searchService.searchSongName(this.fullSongList, searchValue.songName);
+      this.formattedSonglist = this.searchService.filterSongType(this.formattedSonglist, searchValue.songTypes);
+      this.formattedSonglist = this.searchService.filterSongTag(this.formattedSonglist, searchValue.songTags);
+      this.formattedSonglist = this.searchService.searchChart(this.formattedSonglist, searchValue.chartTypes, searchValue.levels);
+      this.reloadSongList();
+    });
   }
 
   loadSonglistData() {
-    dataFile.songlist.forEach(function(songData) {
+    dataFile.songlist.forEach(function (songData) {
       const songItem = new SongItem();
       songItem.id = songData.songID;
       songItem.songName = songData.songName;
@@ -80,13 +90,17 @@ export class SongBrowserComponent implements OnInit {
       });
       songItem.chartList = stepCharts;
 
-      this.formattedSonglist.push(songItem);
+      this.fullSongList.push(songItem);
     }, this);
+  }
+
+  reloadSongList() {
+    this.dataSource = new MatTableDataSource<SongItem>(this.formattedSonglist);
+    this.dataSource.paginator = this.paginator;
   }
 
   @HostListener('window:resize', ['$event'])
   onResize(event) {
     this.useMobileUI = (event.target.innerWidth < this.MOBILE_WIDTH_TRESHOLD) ? true : false;
   }
-
 }
