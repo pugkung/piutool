@@ -1,0 +1,64 @@
+<app-search-bar></app-search-bar>
+
+<mat-paginator [length]="length" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="pageEvent = $event">
+</mat-paginator>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <ng-container matColumnDef="songName">
+        <th mat-header-cell *matHeaderCellDef> Song Name </th>
+        <td mat-cell *matCellDef="let song"> {{song.songName}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="banner">
+        <th mat-header-cell *matHeaderCellDef> Banner </th>
+        <td mat-cell *matCellDef="let song">
+            <img src="../../assets/data/img/songid/{{song.id}}.jpg" width="120" height="60" />
+        </td>
+    </ng-container>
+
+    <ng-container matColumnDef="artist">
+        <th mat-header-cell *matHeaderCellDef> Artist </th>
+        <td mat-cell *matCellDef="let song"> {{song.artist}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="bpm">
+        <th mat-header-cell *matHeaderCellDef> BPM </th>
+        <td mat-cell *matCellDef="let song"> {{song.bpm}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="version">
+        <th mat-header-cell *matHeaderCellDef> Version </th>
+        <td mat-cell *matCellDef="let song"> {{song.version}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="songType">
+        <th mat-header-cell *matHeaderCellDef> Type </th>
+        <td mat-cell *matCellDef="let song"> {{song.songType}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="tags">
+        <th mat-header-cell *matHeaderCellDef> Tags </th>
+        <td mat-cell *matCellDef="let song"> {{song.tags}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="chartList">
+        <th mat-header-cell *matHeaderCellDef> Charts List </th>
+        <td mat-cell *matCellDef="let song">
+            <span *ngFor="let chart of song.chartList">
+                <img *ngIf="chart.chartType != 'coop' else coopChart" src="../../assets/data/img/level/{{chart.chartType | lowercase}}/{{chart.level}}.gif" [className]="useMobileUI? 'levelOrb-75' : 'levelOrb'">
+                <ng-template #coopChart>
+                    <img src="../../assets/data/img/level/{{chart.chartType}}/{{chart.players}}.gif" [className]="useMobileUI? 'levelOrb-75' : 'levelOrb'">
+                </ng-template>
+            </span>
+        </td>
+    </ng-container>
+
+    <ng-container *ngIf="useMobileUI;else useDesktopUI">
+        <tr mat-header-row *matHeaderRowDef="displayedColumnsMobile"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumnsMobile;"></tr>
+    </ng-container>
+
+    <ng-template #useDesktopUI>
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </ng-template>
+</table>

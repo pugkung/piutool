@@ -1,0 +1,13 @@
+.levelOrb {
+    width: 48px;
+    height: 48px;
+}
+
+.levelOrb-75 {
+    width: 36px;
+    height: 36px;
+}
+
+td.mat-cell {
+    padding: 5px;
+}

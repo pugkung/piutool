@@ -1,0 +1,11 @@
+.material-icons {
+    font-size: 120px;
+    margin-left: -90px;
+}
+
+.mat-card {
+    text-align: center;
+    float: left;
+    width: 160px;
+    margin: 20px;
+}
