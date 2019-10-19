@@ -14,6 +14,7 @@ import dataFile from '../../../assets/data/songlist_xx.json';
 })
 export class SongBrowserComponent implements OnInit {
 
+  pageEvent: any;
   MOBILE_WIDTH_TRESHOLD = 840;
   useMobileUI: boolean;
 
