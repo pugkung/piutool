@@ -12454,6 +12454,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
@@ -18415,6 +18420,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 10,
                     "tags"      : []
@@ -18428,6 +18438,11 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -20369,6 +20384,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 8,
                     "tags"      : []
@@ -20376,6 +20396,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
                     "tags"      : []
                 }
             ]
@@ -21030,6 +21055,404 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 615,
+            "songName"  : "Full Moon",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 190,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 616,
+            "songName"  : "CARMEN BUS",
+            "artist"    : "StaticSphere & FUGU SUISAN",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 617,
+            "songName"  : "Tales of Pumpnia",
+            "artist"    : "Applesoda",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 618,
+            "songName"  : "Orbit Stabilizer",
+            "artist"    : "DM Ashura",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 619,
+            "songName"  : "CROSS SOUL",
+            "artist"    : "HyuN feat. Syepias",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 620,
+            "songName"  : "Phalanx \"RS2018 edit\"",
+            "artist"    : "Cranky",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 621,
+            "songName"  : "Prime Time",
+            "artist"    : "Cashew",
+            "bpm"       : 190,
+            "songType"  : "remix",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 622,
+            "songName"  : "Can-can ~Orpheus in The Party Mix~ - SHORT CUT -",
+            "artist"    : "Sr. Lan Belmont",
+            "bpm"       : 195,
+            "songType"  : "shortcut",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["unlock"]
                 }
             ]
         }
