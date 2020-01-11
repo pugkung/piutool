@@ -40,25 +40,16 @@ export class SearchService {
   }
 
   searchChart(arr, types, level) {
-  if (arr.length === 0) {
-    return [];
-  }
+    if (arr.length === 0) {
+      return [];
+    }
 
-  const results = [];
-  if (types.includes('coop')) {
-    arr.forEach( (song) => {
-      const filteredList = song.chartList.filter(a => a.chartType === 'coop');
-      if (filteredList.length > 0) {
-        const resultSong = Object.assign({}, song);
-        resultSong.chartList = filteredList;
-        results.push(resultSong);
-      }
-    });
-  } else {
+    const results = [];
+
     // search stepchart for each type
-    arr.forEach( (song) => {
+    arr.forEach((song) => {
       const matchedChartList = [];
-      types.forEach( (type) => {
+      types.forEach((type) => {
         const filteredList = song.chartList.filter(a =>
           a.chartType === type &&
           a.level >= level[0] &&
@@ -72,8 +63,8 @@ export class SearchService {
         const resultSong = Object.assign({}, song);
         // flatten into single array of array -> flat level array
         const resultchartList = [];
-        matchedChartList.forEach( (resultListForEachChartType) => {
-          resultListForEachChartType.forEach( (individualChart) => {
+        matchedChartList.forEach((resultListForEachChartType) => {
+          resultListForEachChartType.forEach((individualChart) => {
             resultchartList.push(individualChart);
           });
         });
@@ -81,7 +72,24 @@ export class SearchService {
         results.push(resultSong);
       }
     });
+
+    if (types.includes('coop')) {
+      arr.forEach((song) => {
+        const filteredList = song.chartList.filter(a => a.chartType === 'coop');
+        if (filteredList.length > 0) {
+          // look for song in result list, push new one if not match
+          const existingSong = results.filter(a => a.id === song.id);
+          if (existingSong.length > 0) {
+            existingSong[0].chartList.push(filteredList[0]);
+          } else {
+            const resultSong = Object.assign({}, song);
+            resultSong.chartList = filteredList;
+            results.push(resultSong);
+          }
+        }
+      });
+    }
+
+    return results;
   }
-  return results;
-}
 }
