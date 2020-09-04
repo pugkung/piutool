@@ -3587,6 +3587,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "douelb",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 26,
                     "tags"      : []
@@ -3743,6 +3748,11 @@
                 {
                     "chartType" : "single",
                     "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -5152,7 +5162,7 @@
                 },
                 {
                     "chartType" : "coop",
-                    "players"     : 2,
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -9094,6 +9104,11 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -12283,6 +12298,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 2,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -15438,6 +15458,11 @@
                     "chartType" : "double",
                     "level"     : 18,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -16306,6 +16331,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -16371,6 +16401,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -18364,6 +18399,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -18481,6 +18521,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -18521,6 +18566,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -19831,6 +19881,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
                     "tags"      : []
                 }
             ]
@@ -22946,6 +23001,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -23197,6 +23257,369 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 651,
+            "songName"  : "Gotta Go",
+            "artist"    : "CHUNG HA",
+            "bpm"       : 102,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 652,
+            "songName"  : "Iolite Sky",
+            "artist"    : "Doin",
+            "bpm"       : 90,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 653,
+            "songName"  : "La Cinquantatine",
+            "artist"    : "Pory",
+            "bpm"       : 164,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 654,
+            "songName"  : "Broken Karma(PIU Edit)",
+            "artist"    : "Quree",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 655,
+            "songName"  : "Cutie Song",
+            "artist"    : "Memme",
+            "bpm"       : 174,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 656,
+            "songName"  : "NEKKOYA(PICK ME) - FULL SONG -",
+            "artist"    : "PRODUCE48",
+            "bpm"       : 128,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 657,
+            "songName"  : "GOOD BYE - FULL SONG -",
+            "artist"    : "HONG JINYOUNG",
+            "bpm"       : 139,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 658,
+            "songName"  : "I Want U - SHORT CUT -",
+            "artist"    : "MAX",
+            "bpm"       : 156,
+            "songType"  : "shortcut",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
                 }
             ]
         }
