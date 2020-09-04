@@ -995,6 +995,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -1530,7 +1535,27 @@
             "chartList" : [
                 {
                     "chartType" : "single",
-                    "level"     : 6,
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -1726,6 +1751,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["unlock"]
                 }
             ]
         },
@@ -1938,6 +1968,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "singlePerformance",
                     "level"     : 4,
                     "tags"      : []
@@ -2113,6 +2148,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -3547,6 +3587,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "douelb",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 26,
                     "tags"      : []
@@ -3703,6 +3748,11 @@
                 {
                     "chartType" : "single",
                     "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
                     "tags"      : []
                 },
                 {
@@ -5112,7 +5162,7 @@
                 },
                 {
                     "chartType" : "coop",
-                    "players"     : 2,
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -7685,6 +7735,11 @@
                     "chartType" : "double",
                     "level"     : 16,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
                 }
             ]
         },
@@ -8998,6 +9053,11 @@
                     "chartType" : "double",
                     "level"     : 10,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 5,
+                    "tags"      : []
                 }
             ]
         },
@@ -9043,6 +9103,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 24,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 4,
                     "tags"      : []
                 }
             ]
@@ -9522,6 +9587,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -12228,6 +12298,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 2,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -13703,6 +13778,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 9,
                     "tags"      : []
@@ -14449,6 +14529,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
                     "tags"      : []
                 },
                 {
@@ -15373,6 +15458,11 @@
                     "chartType" : "double",
                     "level"     : 18,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -15515,6 +15605,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -16116,6 +16211,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
@@ -16231,6 +16331,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -16296,6 +16401,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -17047,6 +17157,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 2,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -17148,6 +17263,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -17443,6 +17563,11 @@
                 },
                 {
                     "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
                     "level"     : 24,
                     "tags"      : []
                 }
@@ -17547,6 +17672,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 5,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -17588,6 +17718,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["unlock"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -17917,6 +18052,11 @@
                 {
                     "chartType" : "single",
                     "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
                     "tags"      : []
                 },
                 {
@@ -18259,6 +18399,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -18376,6 +18521,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -18416,6 +18566,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -18487,6 +18642,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -18851,6 +19011,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
@@ -19112,6 +19277,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 19,
                     "tags"      : ["unlock"]
                 },
@@ -19306,7 +19476,32 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
                     "tags"      : ["unlock"]
                 },
                 {
@@ -19624,6 +19819,11 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 7,
                     "tags"      : []
                 },
@@ -19716,6 +19916,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
                     "tags"      : []
                 }
             ]
@@ -19952,6 +20157,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -20169,6 +20379,16 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "double",
                     "level"     : 25,
                     "tags"      : ["unlock"]
@@ -20228,6 +20448,11 @@
                     "chartType" : "double",
                     "level"     : 17,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -20288,6 +20513,11 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
                     "tags"      : []
                 }
             ]
@@ -20416,6 +20646,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
                 }
             ]
         },
@@ -20594,6 +20829,11 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 },
                 {
                     "chartType" : "coop",
@@ -20785,6 +21025,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -20849,6 +21094,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 5,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -20905,6 +21155,16 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : []
                 }
             ]
         },
@@ -21634,6 +21894,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -21695,6 +21960,11 @@
                     "chartType" : "double",
                     "level"     : 20,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
                 }
             ]
         },
@@ -21758,6 +22028,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -21819,6 +22094,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -21868,6 +22148,11 @@
                     "chartType" : "double",
                     "level"     : 22,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
                 },
                 {
                     "chartType" : "coop",
@@ -21924,6 +22209,11 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -21965,6 +22255,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -22011,6 +22306,16 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -22056,6 +22361,11 @@
                 {
                     "chartType" : "double",
                     "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
                     "tags"      : []
                 }
             ]
@@ -22108,6 +22418,11 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -22154,6 +22469,11 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
                 }
             ]
         },
@@ -22180,6 +22500,1670 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 635,
+            "songName"  : "Snapping",
+            "artist"    : "CHUNG HA",
+            "bpm"       : 105,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+            },
+
+            {
+            "songID"    : 636,
+            "songName"  : "Switronic",
+            "artist"    : "SHK",
+            "bpm"       : [120,170],
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+            },
+            {
+            "songID"    : 637,
+            "songName"  : "Transacaglia in G-minor",
+            "artist"    : "ATAS",
+            "bpm"       : 158,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+            },
+            {
+            "songID"    : 638,
+            "songName"  : "Indestructible",
+            "artist"    : "Matduke",
+            "bpm"       : 174,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+            },
+            {
+            "songID"    : 639,
+            "songName"  : "Cycling!",
+            "artist"    : "Yamajet",
+            "bpm"       : 220,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross", "o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+            },
+            {
+            "songID"    : 640,
+            "songName"  : "VERY NICE - FULL SONG -",
+            "artist"    : "SEVENTEEN",
+            "bpm"       : 122,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+            },
+            {
+            "songID"    : 641,
+            "songName"  : "Switronic - SHORT CUT -",
+            "artist"    : "SHK",
+            "bpm"       : 120,
+            "songType"  : "shortcut",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 642,
+            "songName"  : "Bon Bon Chocolat",
+            "artist"    : "EVERGLOW",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 643,
+            "songName"  : "District 1",
+            "artist"    : "MAX",
+            "bpm"       : 158,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 644,
+            "songName"  : "Adrenaline Blaster",
+            "artist"    : "QWertism",
+            "bpm"       : 150,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 645,
+            "songName"  : "Danger & Danger",
+            "artist"    : "Cranky",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 646,
+            "songName"  : "POINT ZERO 2",
+            "artist"    : "SYNTHWULF",
+            "bpm"       : 170,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 647,
+            "songName"  : "Dual Racing <RED vs BLUE>",
+            "artist"    : "Nato & r300k",
+            "bpm"       : 165,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 648,
+            "songName"  : "Fire Noodle Challenge",
+            "artist"    : "Memme",
+            "bpm"       : 185,
+            "songType"  : "remix",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 649,
+            "songName"  : "I'm so sick - FULL SONG -",
+            "artist"    : "APink",
+            "bpm"       : 124,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 650,
+            "songName"  : "Time for the moon night - FULL SONG -",
+            "artist"    : "GFRIEND",
+            "bpm"       : 170,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 651,
+            "songName"  : "Gotta Go",
+            "artist"    : "CHUNG HA",
+            "bpm"       : 102,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 652,
+            "songName"  : "Iolite Sky",
+            "artist"    : "Doin",
+            "bpm"       : 90,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 653,
+            "songName"  : "La Cinquantatine",
+            "artist"    : "Pory",
+            "bpm"       : 164,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 654,
+            "songName"  : "Broken Karma(PIU Edit)",
+            "artist"    : "Quree",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 655,
+            "songName"  : "Cutie Song",
+            "artist"    : "Memme",
+            "bpm"       : 174,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 656,
+            "songName"  : "NEKKOYA(PICK ME) - FULL SONG -",
+            "artist"    : "PRODUCE48",
+            "bpm"       : 128,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 657,
+            "songName"  : "GOOD BYE - FULL SONG -",
+            "artist"    : "HONG JINYOUNG",
+            "bpm"       : 139,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 658,
+            "songName"  : "I Want U - SHORT CUT -",
+            "artist"    : "MAX",
+            "bpm"       : 156,
+            "songType"  : "shortcut",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 659,
+            "songName"  : "Jogging",
+            "artist"    : "LUCY",
+            "bpm"       : 138,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 660,
+            "songName"  : "DESTRUCTIMATE",
+            "artist"    : "KURORAK",
+            "bpm"       : 193,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 661,
+            "songName"  : "Clematis Rapsodia",
+            "artist"    : "Jehezukiel",
+            "bpm"       : 260,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 662,
+            "songName"  : "Stardream (feat. Romelon)",
+            "artist"    : "Cashew",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 663,
+            "songName"  : "Headless Chicken",
+            "artist"    : "r3ook",
+            "bpm"       : 90.5,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 664,
+            "songName"  : "Over the Horizon",
+            "artist"    : "Yamajet",
+            "bpm"       : 190,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 665,
+            "songName"  : "Houseplan",
+            "artist"    : "Houseplan",
+            "bpm"       : 128,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","ez2ac"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 666,
+            "songName"  : "Baroque Virus - FULL SONG -",
+            "artist"    : "Zirccon",
+            "bpm"       : 135,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 667,
+            "songName"  : "ERRORCODE: 0",
+            "artist"    : "DOIN && SUNNY",
+            "bpm"       : 200.1,
+            "songType"  : "remix",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 25,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 27,
+                    "tags"      : ["unlock"]
                 }
             ]
         }
