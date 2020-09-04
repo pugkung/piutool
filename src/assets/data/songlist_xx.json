@@ -23876,7 +23876,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : 24,
+                    "level"     : 23,
                     "tags"      : ["unlock"]
                 },
                 {
@@ -23949,6 +23949,62 @@
         },
         {
             "songID"    : 663,
+            "songName"  : "Headless Chicken",
+            "artist"    : "r3ook",
+            "bpm"       : 90.5,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["xross","o2jam"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 664,
             "songName"  : "Over the Horizon",
             "artist"    : "Yamajet",
             "bpm"       : 190,
@@ -23989,7 +24045,7 @@
             ]
         },
         {
-            "songID"    : 664,
+            "songID"    : 665,
             "songName"  : "Houseplan",
             "artist"    : "Houseplan",
             "bpm"       : 128,
@@ -24040,7 +24096,7 @@
             ]
         },
         {
-            "songID"    : 665,
+            "songID"    : 666,
             "songName"  : "Baroque Virus - FULL SONG -",
             "artist"    : "Zirccon",
             "bpm"       : 135,
@@ -24076,7 +24132,7 @@
             ]
         },
         {
-            "songID"    : 666,
+            "songID"    : 667,
             "songName"  : "ERRORCODE: 0",
             "artist"    : "DOIN && SUNNY",
             "bpm"       : 200.1,
