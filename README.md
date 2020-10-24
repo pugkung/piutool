@@ -10,9 +10,10 @@ Feel free to use this tool or data provided for any purpose.
 Credit / referral are not required, but will be very appreciated if you do :D
 
 ## Data Coverage
-There are two songlist data provided based on following data sources:
-* Pump It Up Prime2 v2.05.0 (final patch)
-* Pump It Up XX v 1.03 (June 2019)
+There are two songlist data provided based on 
+Pump It Up XX v2.04 (final patch).
+
+Pump It Up Prime2 v2.05.0 (final patch) data also availble under legacy version branch.
 
 All removed contents will not be included.
 I plan to maintain the songlist after the release of later vesions, but will not focus on Pro/Infinity songlist data. (feel free to contribute one, though)
