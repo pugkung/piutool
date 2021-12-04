@@ -885,6 +885,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.06"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 5,
                     "tags"      : []
@@ -1301,6 +1306,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.06"]
                 }
             ]
         },
@@ -1646,9 +1656,19 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 7,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["ampass", "v2.06"]
                 }
             ]
         },
@@ -2032,6 +2052,11 @@
                     "chartType" : "double",
                     "level"     : 15,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.06"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -7212,6 +7237,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
                     "chartType" : "singlePerformance",
                     "level"     : 2,
                     "tags"      : []
@@ -8593,6 +8623,11 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.06"]
                 }
             ]
         },
@@ -9674,6 +9709,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : ["v2.06"]
                 }
             ]
         },
@@ -12387,6 +12427,11 @@
                 },
                 {
                     "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 18,
                     "tags"      : []
                 },
@@ -14473,6 +14518,11 @@
             "version"   : "Prime2",
             "tags"      : ["original"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["v2.06"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : 22,
@@ -18623,6 +18673,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
@@ -19309,6 +19364,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
                     "tags"      : []
@@ -19397,7 +19457,7 @@
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "21",
+                    "level"     : 21,
                     "tags"      : ["unlock"]
                 },
                 {
@@ -19710,12 +19770,42 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 18,
                     "tags"      : []
                 },
                 {
                     "chartType" : "double",
-                    "level"     : "20",
+                    "level"     : 6,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
                     "tags"      : []
                 }
             ]
@@ -20333,6 +20423,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.06"]
                 }
             ]
         },
@@ -24563,7 +24658,343 @@
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.05"]
+                }
+            ]
+        },
+        {
+            "songID"    : 673,
+            "songName"  : "Crossing Delta",
+            "artist"    : "t+pazolite+Ginkiha+Hommarju",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.06"]
+                }
+            ]
+        },
+        {
+            "songID"    : 674,
+            "songName"  : "Harmagedon",
+            "artist"    : "HyuN vs lixound",
+            "bpm"       : 194,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock","v2.06"]
+                }
+            ]
+        },
+        {
+            "songID"    : 675,
+            "songName"  : "Slapstick Parfait",
+            "artist"    : "t+pazolite",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock","v2.06"]
+                }
+            ]
+        },
+        {
+            "songID"    : 676,
+            "songName"  : "Paved Garden",
+            "artist"    : "Ginkiha",
+            "bpm"       : 187,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock","v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["unlock","v2.06"]
+                }
+            ]
+        },
+        {
+            "songID"    : 677,
+            "songName"  : "Pop Sequence",
+            "artist"    : "Hommarju",
+            "bpm"       : 110,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock","v2.06"]
+                },
+                {
+                    "chartType" : "singlePerformance",
+                    "level"     : 18,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 22,
+                    "tags"      : ["v2.06"]
+                }
+            ]
+        },
+        {
+            "songID"    : 678,
+            "songName"  : "Night Duty",
+            "artist"    : "A.V.",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "FiestaEX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock", "v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : ["v2.06"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock","v2.06"]
                 }
             ]
         }
