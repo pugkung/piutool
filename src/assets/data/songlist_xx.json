@@ -1009,7 +1009,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -1551,22 +1551,22 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
@@ -1780,7 +1780,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 25,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 }
             ]
         },
@@ -1995,7 +1995,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "singlePerformance",
@@ -2183,7 +2183,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -3619,7 +3619,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
@@ -3783,7 +3783,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
@@ -4782,7 +4782,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
@@ -4797,7 +4797,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
@@ -4889,7 +4889,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -7779,7 +7779,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 }
             ]
         },
@@ -9015,7 +9015,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -9117,7 +9117,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -9168,7 +9168,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -9652,7 +9652,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -11170,7 +11170,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -12397,7 +12397,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -13895,7 +13895,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
@@ -13992,7 +13992,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
@@ -14659,7 +14659,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -15592,7 +15592,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -15745,7 +15745,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -16348,7 +16348,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -16470,7 +16470,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -16541,7 +16541,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -17296,7 +17296,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -17403,7 +17403,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -17699,7 +17699,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
@@ -17811,7 +17811,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -17857,7 +17857,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 26,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -18007,7 +18007,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
@@ -18202,7 +18202,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
@@ -18558,7 +18558,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -18619,7 +18619,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -18685,7 +18685,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -18731,7 +18731,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -19315,7 +19315,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -19443,7 +19443,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
@@ -19626,7 +19626,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -20015,7 +20015,7 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
@@ -20111,12 +20111,12 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -20356,7 +20356,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -20473,7 +20473,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -20575,18 +20575,18 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["v2.02"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 23,
                     "tags"      : ["unlock"]
                 },
                 {
-                    "chartType" : "single",
-                    "level"     : 18,
-                    "tags"      : []
-                },
-                {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
@@ -20713,12 +20713,12 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -20848,9 +20848,14 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 3,
+                    "tags"      : ["v2.00"]
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -20902,6 +20907,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -20970,6 +20980,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : ["v2.00"]
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -21033,7 +21048,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
@@ -21166,7 +21181,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -21227,7 +21242,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
@@ -21293,12 +21308,12 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -21359,12 +21374,12 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -21425,7 +21440,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -21476,7 +21491,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
@@ -21660,7 +21675,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
@@ -21716,7 +21731,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -21767,7 +21782,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "coop",
@@ -21828,7 +21843,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -21880,6 +21895,11 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "doublePerformance",
+                    "level"     : 4,
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -21935,7 +21955,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -22038,67 +22058,67 @@
                 {
                     "chartType" : "single",
                     "level"     : 1,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22114,57 +22134,57 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22180,62 +22200,62 @@
                 {
                     "chartType" : "single",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -22251,57 +22271,57 @@
                 {
                     "chartType" : "single",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -22317,47 +22337,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -22373,47 +22393,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22429,37 +22449,37 @@
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22475,42 +22495,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -22531,42 +22551,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 1,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22582,47 +22602,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22638,42 +22658,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.00"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -22689,17 +22709,17 @@
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.00"]
                 }
             ]
         },
@@ -22715,57 +22735,56 @@
                 {
                     "chartType" : "single",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
-            },
-
-            {
+        },
+        {
             "songID"    : 636,
             "songName"  : "Switronic",
             "artist"    : "SHK",
@@ -22777,61 +22796,61 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
-            },
-            {
+        },
+        {
             "songID"    : 637,
             "songName"  : "Transacaglia in G-minor",
             "artist"    : "ATAS",
@@ -22843,56 +22862,56 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
-            },
-            {
+        },
+        {
             "songID"    : 638,
             "songName"  : "Indestructible",
             "artist"    : "Matduke",
@@ -22904,61 +22923,61 @@
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
-            },
-            {
+        },
+        {
             "songID"    : 639,
             "songName"  : "Cycling!",
             "artist"    : "Yamajet",
@@ -22970,51 +22989,51 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.01"]
                 },
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
-            },
-            {
+        },
+        {
             "songID"    : 640,
             "songName"  : "VERY NICE - FULL SONG -",
             "artist"    : "SEVENTEEN",
@@ -23026,21 +23045,21 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
-            },
-            {
+        },
+        {
             "songID"    : 641,
             "songName"  : "Switronic - SHORT CUT -",
             "artist"    : "SHK",
@@ -23052,42 +23071,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.01"]
                 }
             ]
         },
@@ -23103,47 +23122,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 1,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23169,32 +23188,32 @@
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23204,7 +23223,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -23220,47 +23239,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23270,7 +23289,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -23286,42 +23305,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23342,37 +23361,37 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23393,42 +23412,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23438,7 +23457,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -23454,27 +23473,27 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 25,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 }
             ]
         },
@@ -23490,17 +23509,17 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 }
             ]
         },
@@ -23516,27 +23535,27 @@
                 {
                     "chartType" : "single",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.02"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.02"]
                 }
             ]
         },
@@ -23552,47 +23571,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
@@ -23618,37 +23637,37 @@
                 {
                     "chartType" : "single",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
@@ -23658,7 +23677,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23679,47 +23698,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23740,37 +23759,37 @@
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23791,42 +23810,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.03"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -23836,7 +23855,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -23852,17 +23871,17 @@
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -23878,22 +23897,22 @@
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
@@ -23909,32 +23928,32 @@
                 {
                     "chartType" : "single",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 13,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.03"]
                 }
             ]
         },
