@@ -18807,7 +18807,7 @@
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -19173,7 +19173,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -19642,17 +19642,17 @@
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
@@ -19662,12 +19662,12 @@
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
@@ -20652,7 +20652,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -22515,7 +22515,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23148,7 +23148,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23199,7 +23199,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "coop",
@@ -23265,7 +23265,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "coop",
@@ -23326,7 +23326,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23377,7 +23377,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23433,7 +23433,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 4,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "coop",
@@ -23602,7 +23602,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23663,7 +23663,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23724,7 +23724,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23775,7 +23775,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -23831,7 +23831,7 @@
                 {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "coop",
@@ -23950,47 +23950,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 7,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24006,42 +24006,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24057,47 +24057,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 3,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24123,52 +24123,52 @@
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 18,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 22,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -24184,47 +24184,47 @@
                 {
                     "chartType" : "single",
                     "level"     : 5,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 10,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 12,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "coop",
                     "players"   : 2,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 }
             ]
         },
@@ -24240,32 +24240,32 @@
                 {
                     "chartType" : "single",
                     "level"     : 11,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 20,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 14,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24281,42 +24281,42 @@
                 {
                     "chartType" : "single",
                     "level"     : 3,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 6,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 9,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 15,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 17,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 8,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 18,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24332,27 +24332,27 @@
                 {
                     "chartType" : "single",
                     "level"     : 16,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 21,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 20,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 23,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
@@ -24368,27 +24368,27 @@
                 {
                     "chartType" : "single",
                     "level"     : 19,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 23,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "single",
                     "level"     : 25,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 24,
-                    "tags"      : []
+                    "tags"      : ["v2.04"]
                 },
                 {
                     "chartType" : "double",
                     "level"     : 27,
-                    "tags"      : ["unlock"]
+                    "tags"      : ["unlock", "v2.04"]
                 }
             ]
         },
