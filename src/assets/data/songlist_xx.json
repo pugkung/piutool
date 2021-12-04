@@ -900,6 +900,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
                     "chartType" : "coop",
                     "players"   : 2,
                     "tags"      : []
@@ -4427,6 +4432,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.05"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 8,
                     "tags"      : []
@@ -7785,6 +7795,16 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 8,
                     "tags"      : []
                 },
@@ -8207,6 +8227,11 @@
                     "chartType" : "single",
                     "level"     : 2,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
                 },
                 {
                     "chartType" : "single",
@@ -10081,6 +10106,11 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 6,
                     "tags"      : []
                 },
@@ -10180,6 +10210,11 @@
                     "chartType" : "single",
                     "level"     : 6,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : ["v2.05"]
                 },
                 {
                     "chartType" : "single",
@@ -10332,6 +10367,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.05"]
                 }
             ]
         },
@@ -10405,6 +10445,11 @@
             "version"   : "Prime",
             "tags"      : ["original"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : ["v2.05"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : 9,
@@ -10996,6 +11041,11 @@
             "version"   : "Prime",
             "tags"      : ["original"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : 6,
@@ -11647,6 +11697,11 @@
                     "chartType" : "double",
                     "level"     : 16,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.05"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -12625,6 +12680,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
@@ -12674,6 +12734,11 @@
                     "chartType" : "single",
                     "level"     : 20,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["unlock", "v2.05"]
                 },
                 {
                     "chartType" : "double",
@@ -13167,6 +13232,11 @@
                     "chartType" : "double",
                     "level"     : 17,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.05"]
                 }
             ]
         },
@@ -14035,6 +14105,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 4,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.05"]
                 }
             ]
         },
@@ -15264,6 +15339,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 5,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : ["v2.05"]
                 }
             ]
         },
@@ -15526,6 +15606,11 @@
             "version"   : "Prime2",
             "tags"      : ["original"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.05"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : 5,
@@ -17815,6 +17900,16 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 16,
                     "tags"      : []
                 },
@@ -18375,6 +18470,16 @@
             "version"   : "XX",
             "tags"      : ["original"],
             "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.05"]
+                },
                 {
                     "chartType" : "single",
                     "level"     : 12,
@@ -22963,6 +23068,11 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 10,
                     "tags"      : []
                 },
@@ -23390,6 +23500,11 @@
                     "tags"      : ["unlock"]
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
@@ -23439,6 +23554,11 @@
                     "chartType" : "double",
                     "level"     : 17,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.05"]
                 },
                 {
                     "chartType" : "double",
@@ -23897,6 +24017,16 @@
             "chartList" : [
                 {
                     "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
                     "level"     : 6,
                     "tags"      : []
                 },
@@ -24163,6 +24293,276 @@
                 {
                     "chartType" : "double",
                     "level"     : 27,
+                    "tags"      : ["unlock"]
+                }
+            ]
+        },
+        {
+            "songID"    : 668,
+            "songName"  : "BRAIN POWER",
+            "artist"    : "NOMA",
+            "bpm"       : [170, 173],
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["v2.05"]
+                }
+            ]
+        },
+        {
+            "songID"    : 669,
+            "songName"  : "Life is PIANO",
+            "artist"    : "Junk",
+            "bpm"       : 133,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.05"]
+                }
+            ]
+        },
+        {
+            "songID"    : 670,
+            "songName"  : "The Reverie",
+            "artist"    : "uma",
+            "bpm"       : 133,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.05"]
+                }
+            ]
+        },
+        {
+            "songID"    : 671,
+            "songName"  : "God Mode 2.0 feat Skizzo",
+            "artist"    : "Nato",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.05"]
+                }
+            ]
+        },
+        {
+            "songID"    : 672,
+            "songName"  : "Full Moon - FULL SONG -",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 190,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["unlock", "v2.05"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
                     "tags"      : ["unlock"]
                 }
             ]
