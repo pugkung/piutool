@@ -22,7 +22,10 @@
 
     <ng-container matColumnDef="bpm">
         <th mat-header-cell *matHeaderCellDef> BPM </th>
-        <td mat-cell *matCellDef="let song"> {{song.bpm}} </td>
+        <td mat-cell *matCellDef="let song">
+            <span *ngIf="song.bpm[0]">{{song.bpm[0]}}-{{song.bpm[1]}}</span>
+            <span *ngIf="!song.bpm[0]">{{song.bpm}}</span>
+        </td>
     </ng-container>
 
     <ng-container matColumnDef="version">
