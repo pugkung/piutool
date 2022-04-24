@@ -11,12 +11,12 @@ Credit / referral are not required, but will be very appreciated if you do :D
 
 ## Data Coverage
 There are two songlist data provided based on 
-Pump It Up XX v2.04 (final patch).
+Pump It Up XX v2.08 (final patch).
 
-Pump It Up Prime2 v2.05.0 (final patch) data also availble under legacy version branch.
+Pump It Up Prime2 v2.05.0 (final patch) data also available under legacy version branch.
 
 All removed contents will not be included.
-I plan to maintain the songlist after the release of later vesions, but will not focus on Pro/Infinity songlist data. (feel free to contribute one, though)
+I plan to maintain the songlist after the release of later versions, but will not focus on Pro/Infinity songlist data. (feel free to contribute one, though)
 
 ## Data sources
 * Several prime 2/XX songlist videos on youtube. (Including JP/SA/PH exclusive songlist)
