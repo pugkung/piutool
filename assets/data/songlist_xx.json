@@ -1017,6 +1017,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
                     "chartType" : "double",
                     "level"     : 11,
                     "tags"      : []
@@ -1030,6 +1035,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -2704,6 +2714,11 @@
                     "chartType" : "double",
                     "level"     : 21,
                     "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
                 }
             ]
         },
@@ -11039,6 +11054,11 @@
                     "tags"      : []
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : []
@@ -11496,6 +11516,11 @@
                     "chartType" : "double",
                     "level"     : 15,
                     "tags"      : ["spin"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -19523,6 +19548,11 @@
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : ["v1.01"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.08"]
                 }
             ]
         },
@@ -19819,6 +19849,11 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : ["unlock"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["v2.08"]
                 }
             ]
         },
@@ -22073,6 +22108,11 @@
                     "tags"      : ["v2.07"]
                 },
                 {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                },
+                {
                     "chartType" : "doublePerformance",
                     "level"     : 3,
                     "tags"      : ["v2.00"]
@@ -22962,6 +23002,11 @@
                     "chartType" : "double",
                     "level"     : 19,
                     "tags"      : ["unlock", "v2.01"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
                 },
                 {
                     "chartType" : "doublePerformance",
@@ -24614,6 +24659,11 @@
                     "chartType" : "double",
                     "level"     : 24,
                     "tags"      : ["v2.05"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.08"]
                 }
             ]
         },
@@ -25485,6 +25535,435 @@
                     "chartType" : "double",
                     "level"     : 23,
                     "tags"      : ["unlock","v2.07"]
+                }
+            ]
+        },
+        {
+            "songID"    : 685,
+            "songName"  : "Ultimatum",
+            "artist"    : "Cosmograph",
+            "bpm"       : 202,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 25,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 27,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 686,
+            "songName"  : "Mopemope",
+            "artist"    : "LeaF",
+            "bpm"       : 100,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 687,
+            "songName"  : "Re : End of a Dream",
+            "artist"    : "uma vs. Morimori Atsushi",
+            "bpm"       : 212,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 688,
+            "songName"  : "CROSS RAY (feat. 月下Lia)",
+            "artist"    : "HyuN",
+            "bpm"       : 176,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 689,
+            "songName"  : "Cygnus",
+            "artist"    : "nato",
+            "bpm"       : 188,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["orignal"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 690,
+            "songName"  : "Tropicanic",
+            "artist"    : "SHK",
+            "bpm"       : 145,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["orignal"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 691,
+            "songName"  : "Paradoxx - SHORT CUT -",
+            "artist"    : "SLAM & NATO",
+            "bpm"       : 220,
+            "songType"  : "shortcut",
+            "version"   : "XX",
+            "tags"      : ["orignal"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 692,
+            "songName"  : "Brown Sky",
+            "artist"    : "Doin",
+            "bpm"       : 200,
+            "songType"  : "remix",
+            "version"   : "XX",
+            "tags"      : ["orignal"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["v2.08"]
+                }
+            ]
+        },
+        {
+            "songID"    : 693,
+            "songName"  : "GOOD NIGHT - FULL SONG -",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 196,
+            "songType"  : "fullsong",
+            "version"   : "XX",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : ["v2.08"]
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : ["v2.08"]
                 }
             ]
         }
