@@ -92,4 +92,20 @@ export class SearchService {
 
     return results;
   }
+
+  randomChartFromList(songList, randomCount) {
+    const flattenList = [];
+    songList.forEach((song) => {
+      song.chartList.forEach((chart) => {
+        const resultSong = Object.assign({}, song);
+        resultSong.chartList = [chart]
+        flattenList.push(resultSong);
+      });
+    });
+
+    const shuffled = flattenList.sort(() => 0.5 - Math.random());
+    const results = shuffled.slice(0, randomCount);
+
+    return results;
+  }
 }

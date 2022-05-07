@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { FormGroup, FormControl, FormBuilder, FormArray } from '@angular/forms';
 
 import { SearchService } from '../../services/search.service';
@@ -10,6 +10,9 @@ import { SongFilters } from '../../models/song-filter';
   styleUrls: ['./search-bar.component.css']
 })
 export class SearchBarComponent implements OnInit {
+
+  @Input()
+  randomMode: boolean;
 
   searchForm: FormGroup;
 
@@ -23,7 +26,8 @@ export class SearchBarComponent implements OnInit {
       chartTypes: new FormArray(chartTypesOptions),
       songTypes: new FormArray(songTypesOptions),
       songTags: new FormArray(songTagsOptions),
-      levels: new FormControl([1, 28])
+      levels: new FormControl([1, 28]),
+      randomCount: 1
     });
   }
 
@@ -98,6 +102,8 @@ export class SearchBarComponent implements OnInit {
       }
       index++;
     });
+
+    newSearchFilter.randomCount = formData.value.randomCount;
 
     return newSearchFilter;
   }

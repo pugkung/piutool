@@ -1,5 +1,5 @@
 <mat-accordion>
-    <mat-expansion-panel>
+    <mat-expansion-panel [hideToggle]="randomMode" [disabled]="randomMode" [expanded]="randomMode">
         <mat-expansion-panel-header>
             <mat-panel-title>
                 Search...
@@ -35,10 +35,18 @@
                     {{songTags[i].name}}</mat-checkbox>
                 </label>
             </fieldset>
+
             <fieldset>
                 <legend>Levels</legend>
                 <span>{{searchForm.controls.levels.value[0]}}</span> - <span>{{searchForm.controls.levels.value[1]}}</span>
                 <nouislider [connect]="true" [min]="1" [max]="28" [step]="1" [formControl]="searchForm.controls.levels"></nouislider>
+            </fieldset>
+
+            <fieldset *ngIf="randomMode">
+                <legend>Number of tracks </legend>
+                <mat-form-field>
+                    <input type="number" matInput formControlName="randomCount" min="1" max="25">
+                </mat-form-field>
             </fieldset>
         </form>
     </mat-expansion-panel>

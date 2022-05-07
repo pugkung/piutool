@@ -6,6 +6,8 @@ export class SongFilters {
     songTypes: string[];
     songTags: string[];
 
+    randomCount: number;
+
     constructor() {
         this.songName = '';
         this.levels = [1, 28];
@@ -13,5 +15,6 @@ export class SongFilters {
         this.chartTypes = [];
         this.songTypes = [];
         this.songTags = [];
+        this.randomCount = 0;
     }
 }
