@@ -25754,7 +25754,7 @@
             "bpm"       : 188,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : ["orignal"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25815,7 +25815,7 @@
             "bpm"       : 145,
             "songType"  : "arcade",
             "version"   : "XX",
-            "tags"      : ["orignal"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25876,7 +25876,7 @@
             "bpm"       : 220,
             "songType"  : "shortcut",
             "version"   : "XX",
-            "tags"      : ["orignal"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25902,7 +25902,7 @@
             "bpm"       : 200,
             "songType"  : "remix",
             "version"   : "XX",
-            "tags"      : ["orignal"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
