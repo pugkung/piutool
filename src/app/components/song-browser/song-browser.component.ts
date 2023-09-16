@@ -5,7 +5,7 @@ import { SongItem, StepChart } from '../../models/song-item';
 import { SearchService } from '../../services/search.service';
 import { SongFilters } from '../../models/song-filter';
 
-import dataFile from '../../../assets/data/songlist_xx.json';
+import dataFile from '../../../assets/data/songlist_phoenix.json';
 
 @Component({
   selector: 'app-song-browser',
