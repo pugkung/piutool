@@ -21461,6 +21461,1799 @@
                     "tags"      : []
                 }
             ]
+        },
+        {
+            "songID"    : 694,
+            "songName"  : "BOCA",
+            "artist"    : "Dreamcatcher",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 695,
+            "songName"  : "Nxde",
+            "artist"    : "(G)I-DLE",
+            "bpm"       : 136,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 696,
+            "songName"  : "Teddy Bear",
+            "artist"    : "STAYC",
+            "bpm"       : 119,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 697,
+            "songName"  : "Alone",
+            "artist"    : "HIGHLIGHT",
+            "bpm"       : 115,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 698,
+            "songName"  : "Amor Fati",
+            "artist"    : "Yeon Ja Kim",
+            "bpm"       : 134,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 699,
+            "songName"  : "After LIKE",
+            "artist"    : "IVE",
+            "bpm"       : 125,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 700,
+            "songName"  : "Pirate",
+            "artist"    : "EVERGLOW",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 701,
+            "songName"  : "Beautiful Liar",
+            "artist"    : "MONSTA X",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 702,
+            "songName"  : "STORM",
+            "artist"    : "KOYOTE",
+            "bpm"       : 139,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 703,
+            "songName"  : "Airplane",
+            "artist"    : "TYPHOON",
+            "bpm"       : 120,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["kpop"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 1,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 704,
+            "songName"  : "Vector",
+            "artist"    : "Zekk",
+            "bpm"       : 178,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : 14
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 705,
+            "songName"  : "Versailles",
+            "artist"    : "Hyun & MIIM",
+            "bpm"       : [160,175],
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 706,
+            "songName"  : "Showdown",
+            "artist"    : "litmus*",
+            "bpm"       : 130,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 707,
+            "songName"  : "BOOOOM!!",
+            "artist"    : "RiraN",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 708,
+            "songName"  : "Euphorianic",
+            "artist"    : "SHK",
+            "bpm"       : 140,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 3,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 5,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 709,
+            "songName"  : "Jupin",
+            "artist"    : "Sobrem",
+            "bpm"       : 173,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 710,
+            "songName"  : "Ghroth",
+            "artist"    : "nato",
+            "bpm"       : 212,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 711,
+            "songName"  : "KUGUTSU",
+            "artist"    : "onoken",
+            "bpm"       : 220,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original", "premium"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 25,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 27,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 712,
+            "songName"  : "Etude Op 10-4",
+            "artist"    : "MAX",
+            "bpm"       : 176,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original", "premium"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 713,
+            "songName"  : "MURDOCH",
+            "artist"    : "WONDERTRAVELER Project",
+            "bpm"       : 179,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 714,
+            "songName"  : "Lohxia",
+            "artist"    : "The Musical Ghost",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 715,
+            "songName"  : "CHAOS AGAIN",
+            "artist"    : "NAOKI underground -Ω-",
+            "bpm"       : [150,260],
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["original", "premium"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 24,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 26,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 716,
+            "songName"  : "GOODTEK",
+            "artist"    : "EBIMAYO",
+            "bpm"       : 190,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 8,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 717,
+            "songName"  : "CO5M1C R4ILR0AD",
+            "artist"    : "kanone",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 10,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 718,
+            "songName"  : "Energy Synergy Matrix",
+            "artist"    : "Tanchiky",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 719,
+            "songName"  : "Milk",
+            "artist"    : "Morimori Atsushi",
+            "bpm"       : 150,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 720,
+            "songName"  : "Acquire",
+            "artist"    : "rhyki",
+            "bpm"       : 155,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 3,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 721,
+            "songName"  : "Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len/GUMI",
+            "artist"    : "DASU",
+            "bpm"       : 156,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 722,
+            "songName"  : "Altale",
+            "artist"    : "sakuzyo",
+            "bpm"       : 90,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world", "premium"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 2,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 23,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 723,
+            "songName"  : "GOODBOUNCE",
+            "artist"    : "EBIMAYO",
+            "bpm"       : 180,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 4,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 7,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 13,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 724,
+            "songName"  : "R.I.P",
+            "artist"    : "eicateve",
+            "bpm"       : 192,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 725,
+            "songName"  : "Halcyon",
+            "artist"    : "xi",
+            "bpm"       : [40,191],
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 18,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
+            "songID"    : 726,
+            "songName"  : "BATTLE NO.1",
+            "artist"    : "TANO*C Sound Team",
+            "bpm"       : 200,
+            "songType"  : "arcade",
+            "version"   : "phoenix",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 9,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 14,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 20,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 16,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 24,
+                    "tags"      : []
+                }
+            ]
         }
     ]
 }
