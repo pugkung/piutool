@@ -2,15 +2,15 @@
 Pump It Up web tool, primary focusing on song list searching and randomizer.
 
 ## Page
-As of under construction phase, the update log is currently maintained on the tool's page below:
-https://pugkung.github.io/piutool/
+You can try the latest build of this repository at:
+https://snil4.github.com/piutool
 
 ## Usage Agreement
 Feel free to use this tool or data provided for any purpose.
 Credit / referral are not required, but will be very appreciated if you do :D
 
 ## Data Coverage
-**(Next build)** Songlist data based on Pump It Up Phoenix v1.02.
+**(Current build)** Songlist data based on Pump It Up Phoenix v1.05.
 
 Legacy songlist data also available: 
 - Pump It Up XX v2.08 (final patch)
@@ -24,4 +24,4 @@ I plan to maintain the songlist after the release of later versions, but will no
 
 ## Contact
 For reporting any issue/incorrect data, please use GitHub's Issue tracker below:
-https://github.com/pugkung/piutool/issues
+https://github.com/snil4/piutool/issues
