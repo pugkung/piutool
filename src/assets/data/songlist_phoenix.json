@@ -23798,7 +23798,7 @@
                 {
                     "chartType" : "double",
                     "level"     : 21,
-                    "tags"      : []
+                    "tags"      : ["half-double"]
                 },
                 {
                     "chartType" : "double",
