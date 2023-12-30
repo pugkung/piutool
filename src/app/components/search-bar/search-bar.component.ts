@@ -54,7 +54,8 @@ export class SearchBarComponent implements OnInit {
     { name: 'World', value: 'world' },
     { name: 'J-Music', value: 'jmusic' },
     { name: 'Xross', value: 'xross' },
-    { name: 'Unlock', value: 'unlock' }
+    { name: 'Unlock', value: 'unlock' },
+    { name: 'Premium', value: 'premium'}
   ];
 
   ngOnInit() {
