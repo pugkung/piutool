@@ -1,6 +1,6 @@
 .material-icons {
     font-size: 120px;
-    margin-left: -90px;
+    font-family: 'Material Icons' !important;
 }
 
 .mat-card {
