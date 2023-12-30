@@ -14,4 +14,6 @@ export class StepChart {
     level: number;
     players: number;
     tags: string[];
+    // TODO - Add Youtube embed for chart videos
+    ytId: string;
 }

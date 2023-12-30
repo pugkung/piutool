@@ -18,7 +18,7 @@
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
-            "aot": false,
+            "aot": true,
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -26,7 +26,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "buildOptimizer": true
           },
           "configurations": {
             "production": {
@@ -52,6 +53,14 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "development": {
+            "buildOptimizer": false,
+            "optimization": false,
+            "vendorChunk": true,
+            "extractLicenses": false,
+            "sourceMap": true,
+            "namedChunks": true
             }
           }
         },
@@ -61,6 +70,9 @@
             "browserTarget": "piutool-app:build"
           },
           "configurations": {
+            "development": {
+              "browserTarget": "piutool-app:build:development"
+            },
             "production": {
               "browserTarget": "piutool-app:build:production"
             }
