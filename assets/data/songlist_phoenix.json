@@ -17749,6 +17749,67 @@
             ]
         },
         {
+            "songID"    : 603,
+            "songName"  : "Conflict",
+            "artist"    : "Siromaru + Cranky",
+            "bpm"       : 160,
+            "songType"  : "arcade",
+            "version"   : "XX",
+            "tags"      : ["world"],
+            "chartList" : [
+                {
+                    "chartType" : "single",
+                    "level"     : 6,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 11,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 15,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 17,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 19,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "single",
+                    "level"     : 22,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 12,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 21,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "double",
+                    "level"     : 25,
+                    "tags"      : []
+                },
+                {
+                    "chartType" : "coop",
+                    "players"   : 2,
+                    "tags"      : []
+                }
+            ]
+        },
+        {
             "songID"    : 605,
             "songName"  : "Poseidon - SHORT CUT –",
             "artist"    : "Quree",
