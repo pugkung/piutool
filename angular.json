@@ -40,7 +40,6 @@
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
-              "extractCss": true,
               "namedChunks": false,
               "aot": true,
               "extractLicenses": true,
@@ -133,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "piutool-app"
+  "defaultProject": "piutool-app",
+  "cli": {
+    "analytics": false
+  }
 }
