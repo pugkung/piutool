@@ -25801,7 +25801,7 @@
             "bpm"       : 200,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25852,7 +25852,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : ["kpop"],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25903,7 +25903,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -25959,7 +25959,7 @@
             "bpm"       : 176,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26224,7 +26224,7 @@
             "bpm"       : [160,210],
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : ["premium"],
+            "tags"      : ["original","premium"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26280,7 +26280,7 @@
             "bpm"       : 180,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26499,7 +26499,7 @@
             "bpm"       : 160,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26555,7 +26555,7 @@
             "bpm"       : 244,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : ["premium"],
+            "tags"      : ["original","premium"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26718,7 +26718,7 @@
             "bpm"       : 155,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
@@ -26779,7 +26779,7 @@
             "bpm"       : 220,
             "songType"  : "arcade",
             "version"   : "phoenix",
-            "tags"      : [""],
+            "tags"      : ["original"],
             "chartList" : [
                 {
                     "chartType" : "single",
